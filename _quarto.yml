@@ -14,7 +14,7 @@ website:
   description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
-    background: seagreen  # You can change the background color here
+    background: green  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
@@ -62,7 +62,7 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Pablo Zúñiga](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
