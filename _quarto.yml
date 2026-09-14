@@ -10,7 +10,7 @@ author-meta: "Dr. Gang He"
 
 website:
   title: "Pablo Zúñiga"
-  image: "https://quarto.org/quarto.png"
+# image: "https://quarto.org/quarto.png"
   description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
