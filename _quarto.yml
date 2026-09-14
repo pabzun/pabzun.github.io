@@ -66,14 +66,14 @@ website:
     center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/pabzun
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+      # - text: "{{< fa brands bluesky >}}" 
+      #   href: https://bsky.app
+      #   target: _blank
+      # - icon: rss
+      #   href: posts.xml
+      #   target: _blank  
   
   search:
     location: navbar
