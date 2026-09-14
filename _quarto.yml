@@ -14,15 +14,15 @@ website:
   description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
-    background: green  # You can change the background color here
+    background: LightGreen # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
       - text: About
         menu:
-          - text: News
-            href: posts.qmd#category=news
+#          - text: News
+#            href: posts.qmd#category=news
           - text: Events
             href: posts.qmd#category=event      
           - text: Contact
@@ -33,12 +33,12 @@ website:
             href: pub-listing.qmd
           - text: Publications  # Manually curated list of publications
             href: publications.qmd            
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd
+#          - text: Selected Papers
+#           href: posts.qmd#category=paper
+#          - text: Grants
+#            href: projects.qmd                                
+#      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+#        href: teaching.qmd
       - text: Outreach
         menu:        
         - text: Presentations
@@ -50,10 +50,10 @@ website:
       - text: CV
         href: files/nsf-biosketch.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/pabzun
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
+#      - text: "{{< fa brands bluesky >}}"
+#        href: https://bsky.app
         target: _blank      
       - icon: rss
         href: posts.xml
