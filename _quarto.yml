@@ -14,7 +14,7 @@ website:
   description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
-    background: LightGreen # You can change the background color here
+    background: MediumAquamarine # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
@@ -52,8 +52,8 @@ website:
       - icon: github
         href: https://github.com/pabzun
         target: _blank
-#      - text: "{{< fa brands bluesky >}}"
-#        href: https://bsky.app
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app
         target: _blank      
       - icon: rss
         href: posts.xml
