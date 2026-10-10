@@ -43,13 +43,13 @@ Low-dimensional representations of multivariate data using t-SNE and projection-
 
 ## Research software
 
-### SPDECensSpatial
+### [SPDEcensSpatial](https://github.com/pabzun/SPDEcensSpatial)
 
 **R package · ESPOL, Ecuador · August 2024–January 2025**
 
 R implementation of SPDE-based spatial models for inference and prediction with censored or missing responses.
 
-### IA2RMS R Implementation
+### [IA2RMS R Implementation](https://github.com/pabzun/Independent-Doubly-Adaptive-Rejection-Metropolis-Sampling)
 
 **Research software · ESPOL, Ecuador · October 2023–January 2024**
 
