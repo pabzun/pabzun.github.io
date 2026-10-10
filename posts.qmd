@@ -9,7 +9,7 @@ listing:
     - posts/cuartiles-mayores/index.qmd
   sort: "date asc"
   type: default
-  fields: [date, title, subtitle, description]
+  fields: [date, title, subtitle, description, image]
   date-format: "D MMM YYYY"
 ---
 

@@ -2,12 +2,30 @@
 title: "Cuartiles Mayores — seventh edition"
 subtitle: "Escuela Superior Politécnica del Litoral (ESPOL)"
 description: "Selected student honoree · ESPOL, Ecuador · Ceremony scheduled for 16 November 2026."
+image: ../../files/images/cuartiles-mayores.jpg
+image-alt: "Official Cuartiles Mayores research recognition banner from ESPOL."
 date: 2026-11-16
 categories: [Recognition, Upcoming]
 author: "Pablo Zúñiga"
 ---
 
+::: {.event-intro}
+
+::: {.event-facts}
 **Recognition:** selected among the student honorees for the seventh edition of Cuartiles Mayores.  
 **Institution:** Escuela Superior Politécnica del Litoral (ESPOL), Ecuador.  
 **Ceremony:** 16 November 2026, 10:00.  
 **Venue:** STEM building, Campus Gustavo Galindo Velasco, Ecuador.
+:::
+
+::: {.event-visual}
+
+![Official Cuartiles Mayores research recognition banner from ESPOL.](../../files/images/cuartiles-mayores.jpg){.event-image}
+
+::: {.event-image-credit}
+Official Cuartiles Mayores banner · [ESPOL](https://www.espol.edu.ec/es/cuartiles-mayores).
+:::
+
+:::
+
+:::

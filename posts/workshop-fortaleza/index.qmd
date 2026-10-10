@@ -2,17 +2,35 @@
 title: "Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems"
 subtitle: "3rd Workshop on Combinatorics, Number Theory and Dynamical Systems"
 description: "Accepted poster · Labomar, UFC · Fortaleza, Brazil · 19–23 October 2026."
+image: ../../files/images/workshop-fortaleza.jpg
+image-alt: "Official poster for the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026."
 date: 2026-10-19
 categories: [Event, Poster, Upcoming]
 author: "Pablo Zúñiga"
 ---
 
+::: {.event-intro}
+
+::: {.event-facts}
 **Presentation:** poster; accepted for presentation.  
 **Event:** 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems.  
 **Institution / venue:** Labomar — Instituto de Ciências do Mar, Universidade Federal do Ceará (UFC).  
 **Location:** Fortaleza, Brazil.  
 **Dates:** 19–23 October 2026.  
 **Support:** financial support awarded by the workshop organizers.
+:::
+
+::: {.event-visual}
+
+![Official poster for the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026.](../../files/images/workshop-fortaleza.jpg){.event-image}
+
+::: {.event-image-credit}
+Official workshop poster · [IMPA](https://impa.br/evento/3rd-workshop-on-combinatorics-number-theory-and-dynamical-systems-2/?lang=en).
+:::
+
+:::
+
+:::
 
 ## Research topic
 
