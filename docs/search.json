@@ -1,163 +1,149 @@
 [
   {
+    "objectID": "posts/cuartiles-mayores/index.html",
+    "href": "posts/cuartiles-mayores/index.html",
+    "title": "Selected for Cuartiles Mayores — seventh edition",
+    "section": "",
+    "text": "I have been selected among the student honorees for the seventh edition of Cuartiles Mayores at Escuela Superior Politécnica del Litoral (ESPOL).\nThe recognition highlights students’ effort, dedication, excellence, and contributions to the institution. The ceremony is scheduled for 16 November 2026 at 10:00, at the STEM building, Campus Gustavo Galindo Velasco, Ecuador."
+  },
+  {
+    "objectID": "posts.html#previous-activities",
+    "href": "posts.html#previous-activities",
+    "title": "News & events",
+    "section": "Previous activities",
+    "text": "Previous activities\n\nApril 2024 — ESPOL, Guayaquil, Ecuador. Presented Integration of Multivariate Techniques Applied to Characterize Agricultural Practices in Cacao Cultivation in the Northern Ecuadorian Amazon at the Showcase of Statistical Business Practice Projects.\nOctober 2023 — ESPOL, Guayaquil, Ecuador. Organizing committee member for the 20th Statistics Conference."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & manuscripts",
+    "section": "",
+    "text": "Zúñiga, P. A., Valeriano, K. A. L., and Lima, L. (2026). Likelihood-Based Inference for Spatial Data with Censored and Missing Responses via SPDE Approach. Manuscript in preparation."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications & manuscripts",
+    "section": "",
+    "text": "Zúñiga, P. A., Valeriano, K. A. L., and Lima, L. (2026). Likelihood-Based Inference for Spatial Data with Censored and Missing Responses via SPDE Approach. Manuscript in preparation."
+  },
+  {
+    "objectID": "publications.html#thesis",
+    "href": "publications.html#thesis",
+    "title": "Publications & manuscripts",
+    "section": "Thesis",
+    "text": "Thesis\nZúñiga, P. (2025). Inferencia de datos espaciales con respuestas censuradas o faltantes usando ecuaciones diferenciales parciales estocásticas (SPDE). BSc thesis in Statistics, FCNM, Escuela Superior Politécnica del Litoral (ESPOL)."
+  },
+  {
+    "objectID": "publications.html#current-research",
+    "href": "publications.html#current-research",
+    "title": "Publications & manuscripts",
+    "section": "Current research",
+    "text": "Current research\nHellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems. Master’s research at UNICAMP, supervised by Christophe Gallesco. Project description."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pablo Adrián Zúñiga Guamán",
+    "section": "",
+    "text": "I am a Master’s student in Statistics at the University of Campinas (UNICAMP), Brazil, working in probability theory under the supervision of Christophe Gallesco. I hold a BSc in Statistics from Escuela Superior Politécnica del Litoral (ESPOL), Ecuador.\nMy research interests include probability theory, stochastic processes, ergodic theory, dynamical systems, processes with infinite memory, and stochastic partial differential equations. My current work concerns the compatibility and uniqueness of probability laws in infinite-memory shift systems.\nEmail (p218730 at dac dot unicamp dot br) GitHub"
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Pablo Adrián Zúñiga Guamán",
+    "section": "Current research",
+    "text": "Current research\nHellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems\nI study compatible measures for chains with complete connections and \\(g\\)-measures on standard Borel spaces. The project develops Hellinger-type criteria connecting dependence on the remote past with future absolute continuity, ergodic rigidity, and asymptotic loss of memory.\nRead more about my research →"
+  },
+  {
+    "objectID": "index.html#news-upcoming-events",
+    "href": "index.html#news-upcoming-events",
+    "title": "Pablo Adrián Zúñiga Guamán",
+    "section": "News & upcoming events",
+    "text": "News & upcoming events\n\n19–23 October 2026 — Fortaleza, Brazil. My poster Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems has been accepted at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems. Details.\n16 November 2026 — ESPOL, Ecuador. Selected as a student honoree for the seventh edition of Cuartiles Mayores; the recognition ceremony is scheduled for this date. Details."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Pablo Adrián Zúñiga Guamán",
+    "section": "Education",
+    "text": "Education\n\nMSc in Statistics — in progress, University of Campinas (UNICAMP), Campinas, Brazil. Advisor: Christophe Gallesco.\nBSc in Statistics — 2025, Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador."
+  },
+  {
+    "objectID": "index.html#research-teaching-experience",
+    "href": "index.html#research-teaching-experience",
+    "title": "Pablo Adrián Zúñiga Guamán",
+    "section": "Research & teaching experience",
+    "text": "Research & teaching experience\n\nTeaching Assistant, PED — March–June and August–December 2026. ME414, Statistics for Experimentalists, IMECC, UNICAMP.\nResearch Assistant — February–April and August–December 2024. Center for Statistical Studies and Research, ESPOL. Multivariate methods, dimensionality reduction, and agricultural applications.\nResearch Assistant — September 2023–August 2024. Project on methodology for post-selection inference in regression models, FCNM, ESPOL."
+  },
+  {
+    "objectID": "index.html#recognition",
+    "href": "index.html#recognition",
+    "title": "Pablo Adrián Zúñiga Guamán",
+    "section": "Recognition",
+    "text": "Recognition\nCuartiles Mayores, seventh edition — ESPOL, 2026. Selected among the student honorees in recognition of effort, dedication, excellence, and contributions to the institution. Ceremony scheduled for 16 November 2026."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Master’s research, UNICAMP · 2026\nAdvisor: Christophe Gallesco\nThe project studies probability measures compatible with chains with complete connections and \\(g\\)-measures on standard Borel spaces. It focuses on uniqueness and dynamic uniqueness, using Hellinger-type criteria to connect the decay of dependence on the remote past with absolute continuity on the future, ergodic rigidity, and asymptotic loss of memory.\nThis work will be presented as a poster at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026."
+  },
+  {
+    "objectID": "research.html#probability-infinite-memory-systems",
+    "href": "research.html#probability-infinite-memory-systems",
+    "title": "Research",
+    "section": "",
+    "text": "Master’s research, UNICAMP · 2026\nAdvisor: Christophe Gallesco\nThe project studies probability measures compatible with chains with complete connections and \\(g\\)-measures on standard Borel spaces. It focuses on uniqueness and dynamic uniqueness, using Hellinger-type criteria to connect the decay of dependence on the remote past with absolute continuity on the future, ergodic rigidity, and asymptotic loss of memory.\nThis work will be presented as a poster at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026."
+  },
+  {
+    "objectID": "research.html#spatial-statistics-research-software",
+    "href": "research.html#spatial-statistics-research-software",
+    "title": "Research",
+    "section": "Spatial statistics & research software",
+    "text": "Spatial statistics & research software\n\nSPDECensSpatial\nResearch software, ESPOL · August 2024–January 2025\nDevelopment of computational methods for censored spatial linear models using the stochastic partial differential equation (SPDE) representation of Matérn Gaussian random fields. The work uses sparse Gaussian Markov random field representations and maximum-likelihood inference through the Stochastic Approximation Expectation–Maximization (SAEM) algorithm.\nThe implementation covers censored and missing responses, standard-error approximation using the Louis information identity, and prediction at unobserved locations.\n\n\nIA2RMS implementation in R\nResearch software, ESPOL · October 2023–January 2024\nImplementation of the Independent Doubly Adaptive Rejection Metropolis Sampling algorithm of Martino, Read, and Luengo in R, including adaptive rejection and Metropolis sampling for general target distributions and use within Gibbs sampling schemes."
+  },
+  {
+    "objectID": "research.html#previous-research",
+    "href": "research.html#previous-research",
+    "title": "Research",
+    "section": "Previous research",
+    "text": "Previous research\n\nSelective inference in regression models\nResearch Assistant, FCNM, ESPOL · September 2023–August 2024\nStudied conditional inference for penalized robust regression under a multivariate Gaussian model, conditioning jointly on variable-selection and outlier-detection events. Developed selective inference for linear functionals through truncated Gaussian distributions and numerical procedures in R for truncation sets and selective \\(p\\)-values, with simulation studies for Huber–Lasso and exponential-loss regression.\n\n\nMultivariate methods & agricultural practices\nResearch Assistant, Center for Statistical Studies and Research, ESPOL · February–April and August–December 2024\nStudied low-dimensional representations of multivariate data, particularly t-SNE and projection-based methods. Developed a graphical construction for simultaneous representation of variables and taxonomic units, applied to agricultural practices among small-scale farmers in the northern Ecuadorian Amazon."
+  },
+  {
+    "objectID": "research.html#interests-tools",
+    "href": "research.html#interests-tools",
+    "title": "Research",
+    "section": "Interests & tools",
+    "text": "Interests & tools\nResearch interests: probability theory, stochastic processes, ergodic theory, dynamical systems, infinite-memory processes, and stochastic PDEs.\nProgramming: R, Python, C++, SQL.\nScientific writing: LaTeX, mathematical exposition, technical documentation.\nLanguages: Spanish (native), English (intermediate), Portuguese (intermediate)."
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "Teaching Assistant, Programa de Estágio Docente (PED)\nIMECC, University of Campinas (UNICAMP)\nMarch–June and August–December 2026\n\nHeld regular office hours, helping students with probability distributions, estimation, hypothesis testing, regression, and analysis of variance.\nDelivered selected lectures and guided problem-solving sessions on statistical inference and related topics."
   },
   {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
+    "objectID": "teaching.html#me414-statistics-for-experimentalists",
+    "href": "teaching.html#me414-statistics-for-experimentalists",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "pub-listing.html",
-    "href": "pub-listing.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Note: * corresponding author;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
-  },
-  {
-    "objectID": "pub-listing.html#selected-work",
-    "href": "pub-listing.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pub-listing.html#peer-reviewed-journal-papers",
-    "href": "pub-listing.html#peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Peer-reviewed Journal Papers",
-    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Pablo Zúñiga\nPublications – Pablo Zúñiga\nPublications – Pablo Zúñiga\nPablo Zúñiga\nQuarto Academic Website Template adapted by Dr. Gang He\nQuarto Academic Website Template adapted by Dr. Gang He\nQuarto Academic Website Template adapted by Dr. Gang He"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+    "text": "Teaching Assistant, Programa de Estágio Docente (PED)\nIMECC, University of Campinas (UNICAMP)\nMarch–June and August–December 2026\n\nHeld regular office hours, helping students with probability distributions, estimation, hypothesis testing, regression, and analysis of variance.\nDelivered selected lectures and guided problem-solving sessions on statistical inference and related topics."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "Pablo Adrián Zúñiga Guamán\nMSc student in Statistics\nInstituto de Matemática, Estatística e Computação Científica (IMECC)\nUniversity of Campinas (UNICAMP)\nCampinas, São Paulo, Brazil\n\nEmail: p218730 at dac dot unicamp dot br\nGitHub: pabzun\nLinkedIn: Pablo Zúñiga"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "objectID": "posts/workshop-fortaleza/index.html",
+    "href": "posts/workshop-fortaleza/index.html",
+    "title": "Poster at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\nI can automatically generate a neat publication list from an Excel file and enabling categories and filters.\nCheck Quarto Academic Website Examples and Tips and README.md for more detailed instructions.\n\n\n\nResearcher, Univerisity\nConsultant, Company\nIntern, Institute\n\n\n\n\n\nPhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Researcher, Univerisity\nConsultant, Company\nIntern, Institute"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "PhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
-  },
-  {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "text": "My poster Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems has been accepted for presentation at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems.\n\nDates: 19–23 October 2026.\nVenue: Labomar — Instituto de Ciências do Mar, Universidade Federal do Ceará (UFC), Fortaleza, Brazil.\nParticipation: accepted poster presentation; attendance confirmed.\nSupport: financial support awarded by the workshop organizers.\n\nThe poster presents my Master’s research at UNICAMP, supervised by Christophe Gallesco, on Hellinger criteria for compatible laws in infinite-memory shift systems.\nResearch overview"
   }
 ]

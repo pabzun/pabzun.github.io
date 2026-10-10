@@ -1,25 +1,21 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
-description-meta: "Posts about papers, events, news, and more"
-listing: 
-  sort: "date desc"
+title: "News & events"
+description: "Academic news, upcoming presentations, and recognition."
+toc: false
+listing:
+  contents:
+    - posts/workshop-fortaleza/index.qmd
+    - posts/cuartiles-mayores/index.qmd
+  sort: "date asc"
   type: default
-  page-size: 100
   categories: true
-  sort-ui: true
-  filter-ui: true
-  feed: true
-  contents: 
-      - posts
-      - posts/post-links.yml  # Use this file to add external links
-#      categories: [] 
-
-#page-layout: full
-draft-mode: unlinked
-page-navigation: false
-title-block-banner: false
+  fields: [date, title, description, categories]
+  date-format: "D MMM YYYY"
 ---
 
-:::{#posts}
-:::
+## Upcoming
+
+## Previous activities
+
+- **April 2024 — ESPOL, Guayaquil, Ecuador.** Presented *Integration of Multivariate Techniques Applied to Characterize Agricultural Practices in Cacao Cultivation in the Northern Ecuadorian Amazon* at the Showcase of Statistical Business Practice Projects.
+- **October 2023 — ESPOL, Guayaquil, Ecuador.** Organizing committee member for the 20th Statistics Conference.

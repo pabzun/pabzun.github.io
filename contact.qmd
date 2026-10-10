@@ -1,24 +1,15 @@
 ---
 title: "Contact"
-description-meta: "Reach out to me with questions and comments"
-title-block-banner: false
+description: "Contact Pablo Zúñiga, MSc student in Statistics at UNICAMP."
+toc: false
 ---
 
-<center>
+**Pablo Adrián Zúñiga Guamán**  
+MSc student in Statistics  
+Instituto de Matemática, Estatística e Computação Científica (IMECC)  
+University of Campinas (UNICAMP)  
+Campinas, São Paulo, Brazil
 
-**Quarto Academic**
-
-School
-
-College
-
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
-
-
-</center>
+- **Email:** [p218730@dac.unicamp.br](mailto:p218730@dac.unicamp.br)
+- **GitHub:** [pabzun](https://github.com/pabzun)
+- **LinkedIn:** [Pablo Zúñiga](https://www.linkedin.com/in/pablo-zúñiga-b57426215)

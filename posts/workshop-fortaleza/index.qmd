@@ -1,0 +1,18 @@
+---
+title: "Poster at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems"
+description: "Accepted poster presentation · Fortaleza, Brazil · 19–23 October 2026."
+date: 2026-10-19
+categories: [Event, Poster, Upcoming]
+author: "Pablo Zúñiga"
+---
+
+My poster **Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems** has been accepted for presentation at the **3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**.
+
+- **Dates:** 19–23 October 2026.
+- **Venue:** Labomar — Instituto de Ciências do Mar, Universidade Federal do Ceará (UFC), Fortaleza, Brazil.
+- **Participation:** accepted poster presentation; attendance confirmed.
+- **Support:** financial support awarded by the workshop organizers.
+
+The poster presents my Master's research at UNICAMP, supervised by Christophe Gallesco, on Hellinger criteria for compatible laws in infinite-memory shift systems.
+
+[Research overview](../../research.html)

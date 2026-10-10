@@ -1,0 +1,53 @@
+---
+title: "Research"
+description: "Research in probability theory, infinite-memory processes, selective inference, and spatial models."
+---
+
+## Probability & infinite-memory systems
+
+### Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems
+
+**Master's research, UNICAMP · 2026**  
+**Advisor:** Christophe Gallesco
+
+The project studies probability measures compatible with chains with complete connections and $g$-measures on standard Borel spaces. It focuses on uniqueness and dynamic uniqueness, using Hellinger-type criteria to connect the decay of dependence on the remote past with absolute continuity on the future, ergodic rigidity, and asymptotic loss of memory.
+
+This work will be presented as a poster at the [3rd Workshop on Combinatorics, Number Theory and Dynamical Systems](posts/workshop-fortaleza/index.html), Fortaleza, 19–23 October 2026.
+
+## Spatial statistics & research software
+
+### SPDECensSpatial
+
+**Research software, ESPOL · August 2024–January 2025**
+
+Development of computational methods for censored spatial linear models using the stochastic partial differential equation (SPDE) representation of Matérn Gaussian random fields. The work uses sparse Gaussian Markov random field representations and maximum-likelihood inference through the Stochastic Approximation Expectation–Maximization (SAEM) algorithm.
+
+The implementation covers censored and missing responses, standard-error approximation using the Louis information identity, and prediction at unobserved locations.
+
+### IA2RMS implementation in R
+
+**Research software, ESPOL · October 2023–January 2024**
+
+Implementation of the Independent Doubly Adaptive Rejection Metropolis Sampling algorithm of Martino, Read, and Luengo in R, including adaptive rejection and Metropolis sampling for general target distributions and use within Gibbs sampling schemes.
+
+## Previous research
+
+### Selective inference in regression models
+
+**Research Assistant, FCNM, ESPOL · September 2023–August 2024**
+
+Studied conditional inference for penalized robust regression under a multivariate Gaussian model, conditioning jointly on variable-selection and outlier-detection events. Developed selective inference for linear functionals through truncated Gaussian distributions and numerical procedures in R for truncation sets and selective $p$-values, with simulation studies for Huber–Lasso and exponential-loss regression.
+
+### Multivariate methods & agricultural practices
+
+**Research Assistant, Center for Statistical Studies and Research, ESPOL · February–April and August–December 2024**
+
+Studied low-dimensional representations of multivariate data, particularly t-SNE and projection-based methods. Developed a graphical construction for simultaneous representation of variables and taxonomic units, applied to agricultural practices among small-scale farmers in the northern Ecuadorian Amazon.
+
+## Interests & tools
+
+**Research interests:** probability theory, stochastic processes, ergodic theory, dynamical systems, infinite-memory processes, and stochastic PDEs.
+
+**Programming:** R, Python, C++, SQL.  
+**Scientific writing:** LaTeX, mathematical exposition, technical documentation.  
+**Languages:** Spanish (native), English (intermediate), Portuguese (intermediate).
