@@ -43,14 +43,18 @@ Low-dimensional representations of multivariate data using t-SNE and projection-
 
 ## Research software
 
-### [SPDEcensSpatial](https://github.com/pabzun/SPDEcensSpatial)
+### [SPDEcensSpatial](https://github.com/pabzun/SPDEcensSpatial){target="_blank" rel="noopener noreferrer"}
 
 **R package · ESPOL, Ecuador · August 2024–January 2025**
 
 R implementation of SPDE-based spatial models for inference and prediction with censored or missing responses.
 
-### [IA2RMS R Implementation](https://github.com/pabzun/Independent-Doubly-Adaptive-Rejection-Metropolis-Sampling)
+[View repository on GitHub ↗](https://github.com/pabzun/SPDEcensSpatial){target="_blank" rel="noopener noreferrer"}
+
+### [IA2RMS R Implementation](https://github.com/pabzun/Independent-Doubly-Adaptive-Rejection-Metropolis-Sampling){target="_blank" rel="noopener noreferrer"}
 
 **Research software · ESPOL, Ecuador · October 2023–January 2024**
 
 Implementation of the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) algorithm of Martino, Read, and Luengo in R, including its use within Gibbs sampling schemes for conditional distributions in multivariate models.
+
+[View repository on GitHub ↗](https://github.com/pabzun/Independent-Doubly-Adaptive-Rejection-Metropolis-Sampling){target="_blank" rel="noopener noreferrer"}

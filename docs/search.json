@@ -60,7 +60,7 @@
     "href": "research.html#research-software",
     "title": "Research",
     "section": "Research software",
-    "text": "Research software\n\nSPDEcensSpatial\nR package · ESPOL, Ecuador · August 2024–January 2025\nR implementation of SPDE-based spatial models for inference and prediction with censored or missing responses.\n\n\nIA2RMS R Implementation\nResearch software · ESPOL, Ecuador · October 2023–January 2024\nImplementation of the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) algorithm of Martino, Read, and Luengo in R, including its use within Gibbs sampling schemes for conditional distributions in multivariate models."
+    "text": "Research software\n\nSPDEcensSpatial\nR package · ESPOL, Ecuador · August 2024–January 2025\nR implementation of SPDE-based spatial models for inference and prediction with censored or missing responses.\nView repository on GitHub ↗\n\n\nIA2RMS R Implementation\nResearch software · ESPOL, Ecuador · October 2023–January 2024\nImplementation of the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) algorithm of Martino, Read, and Luengo in R, including its use within Gibbs sampling schemes for conditional distributions in multivariate models.\nView repository on GitHub ↗"
   },
   {
     "objectID": "index.html",
