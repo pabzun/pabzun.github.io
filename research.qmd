@@ -1,40 +1,51 @@
 ---
 title: "Research"
-description: "I study how stochastic processes depend on their past, when their probability laws are unique, and how memory connects with dynamics."
+description: "Probability theory: compatibility and uniqueness of probability laws, Hellinger criteria, infinite-memory systems, and measurable dynamics."
 ---
 
-## Randomness, memory, and dynamics
+My main research interests lie in **probability theory**, particularly the compatibility and uniqueness of probability laws, stochastic processes with infinite memory, and ergodic phenomena in measurable dynamical systems. Further interests include stochastic differential equations, stochastic partial differential equations, and interactions between probability and statistics.
 
-A stochastic process may depend on much more than its most recent state. In a process with infinite memory, the entire past can help determine what happens next. I'm interested in how to describe these processes mathematically and in what remains of that memory as time passes.
+## Current research
 
-My current work centers on two related questions. First, when does a prescribed transition rule determine a unique probability law? Second, can processes started from different histories eventually lose the influence of those histories? The first concerns compatibility and uniqueness; the second leads to dynamic uniqueness.
+### Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems
 
-I study these questions for chains with complete connections and $g$-measures on standard Borel spaces. Hellinger distances provide a way to compare probability laws, while absolute continuity and ergodic ideas help connect local transition rules with behavior on the entire future. Thinking of the shift as a measurable dynamical system is another useful perspective on the same problem.
+**Master's research in probability theory**  
+University of Campinas (UNICAMP), Brazil · 2026
 
-### Research interests
+The project studies compatibility, uniqueness, and dynamic uniqueness for probability laws associated with chains with complete connections, $g$-measures, and related shift systems on standard Borel state spaces. The central problem is to relate properties of a prescribed transition kernel to the structure of the compatible probability laws.
 
-- Probability theory and stochastic processes, particularly processes with infinite memory.
-- Ergodic theory and measurable dynamical systems.
-- Stochastic differential equations and stochastic partial differential equations.
+The approach uses local absolute continuity, Radon–Nikodym martingales, conditional probability kernels, disintegration, and the joint convexity of squared Hellinger distance. Hellinger-type variation bounds control discrepancies between conditional laws, while ergodic arguments connect future absolute continuity with rigidity of stationary compatible measures. The work is situated within probability and measure theory, with connections to ergodic theory and measurable dynamics.
 
-The first two areas are central to my current work. My interest in stochastic differential equations extends beyond that project and connects with earlier work in spatial statistics.
+**Poster:** [3rd Workshop on Combinatorics, Number Theory and Dynamical Systems](posts/workshop-fortaleza/index.html), Fortaleza, Brazil, 19–23 October 2026.
 
-I'll present a poster on this research at the [3rd Workshop on Combinatorics, Number Theory and Dynamical Systems](posts/workshop-fortaleza/index.html) in October 2026.
+## Research experience
 
-## Earlier work
+### Methodology for Post-Selection Inference in Regression Models
 
-My background in statistics has also led me to problems where mathematical models and computation meet.
+**Research Assistant**  
+Facultad de Ciencias Naturales y Matemáticas (FCNM), Escuela Superior Politécnica del Litoral (ESPOL), Ecuador  
+September 2023–August 2024
 
-### Spatial models and computation
+Conditional inference for penalized robust regression under a multivariate Gaussian model, conditioning jointly on variable-selection and outlier-detection events. Work included truncated Gaussian inference for linear functionals, numerical approximation of truncation sets, and selective $p$-values, with simulation studies for Huber–Lasso and exponential-loss regression.
 
-At ESPOL, I developed **SPDECensSpatial**, an R implementation for spatial models with censored or missing responses. The work uses the SPDE representation of Matérn Gaussian random fields and sparse Gaussian Markov random fields to make inference and prediction computationally manageable. I implemented maximum-likelihood inference using the SAEM algorithm, along with uncertainty estimates and spatial prediction.
+### Multivariate methods and dimensionality reduction
 
-I also implemented the **Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS)** algorithm in R, including its use within Gibbs sampling schemes.
+**Research Assistant**  
+Center for Statistical Studies and Research, ESPOL, Ecuador  
+February–April and August–December 2024
 
-### Selective inference
+Low-dimensional representations of multivariate data using t-SNE and projection-based methods, including a graphical construction for simultaneous representation of variables and taxonomic units. Application to agricultural practices among small-scale farmers in the northern Ecuadorian Amazon.
 
-I worked on inference after variable selection and outlier detection in robust regression. Conditioning on those decisions leads to truncated Gaussian distributions; my work included numerical procedures for finding the relevant truncation sets and computing selective $p$-values.
+## Research software
 
-### Multivariate methods
+### SPDECensSpatial
 
-Another project explored agricultural practices among small-scale farmers in the northern Ecuadorian Amazon. I worked with dimensionality-reduction and projection methods, particularly t-SNE, to represent and examine multivariate data.
+**R package · ESPOL, Ecuador · August 2024–January 2025**
+
+Computational methods for spatial linear models with censored or missing responses, based on the SPDE representation of Matérn Gaussian random fields and sparse Gaussian Markov random fields. Implementation includes maximum-likelihood inference through the SAEM algorithm, standard-error approximation using the Louis information identity, and spatial prediction.
+
+### IA2RMS R Implementation
+
+**Research software · ESPOL, Ecuador · October 2023–January 2024**
+
+Implementation of the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) algorithm of Martino, Read, and Luengo in R, including its use within Gibbs sampling schemes for conditional distributions in multivariate models.

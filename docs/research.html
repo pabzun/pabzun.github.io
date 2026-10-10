@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Pablo Adrián Zúñiga Guamán">
-<meta name="description" content="I study how stochastic processes depend on their past, when their probability laws are unique, and how memory connects with dynamics.">
+<meta name="description" content="Probability theory: compatibility and uniqueness of probability laws, Hellinger criteria, infinite-memory systems, and measurable dynamics.">
 
 <title>Research – Pablo Zúñiga</title>
 <style>
@@ -107,10 +107,10 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Research – Pablo Zúñiga">
-<meta property="og:description" content="I study how stochastic processes depend on their past, when their probability laws are unique, and how memory connects with dynamics.">
+<meta property="og:description" content="Probability theory: compatibility and uniqueness of probability laws, Hellinger criteria, infinite-memory systems, and measurable dynamics.">
 <meta property="og:site_name" content="Pablo Zúñiga">
 <meta name="twitter:title" content="Research – Pablo Zúñiga">
-<meta name="twitter:description" content="I study how stochastic processes depend on their past, when their probability laws are unique, and how memory connects with dynamics.">
+<meta name="twitter:description" content="Probability theory: compatibility and uniqueness of probability laws, Hellinger criteria, infinite-memory systems, and measurable dynamics.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -145,7 +145,7 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./posts.html"> 
-<span class="menu-text">Events</span></a>
+<span class="menu-text">Academic activities</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
@@ -174,15 +174,19 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#randomness-memory-and-dynamics" id="toc-randomness-memory-and-dynamics" class="nav-link active" data-scroll-target="#randomness-memory-and-dynamics">Randomness, memory, and dynamics</a>
+  <li><a href="#current-research" id="toc-current-research" class="nav-link active" data-scroll-target="#current-research">Current research</a>
   <ul class="collapse">
-  <li><a href="#research-interests" id="toc-research-interests" class="nav-link" data-scroll-target="#research-interests">Research interests</a></li>
+  <li><a href="#hellinger-criteria-for-uniqueness-and-dynamic-uniqueness-in-infinite-memory-shift-systems" id="toc-hellinger-criteria-for-uniqueness-and-dynamic-uniqueness-in-infinite-memory-shift-systems" class="nav-link" data-scroll-target="#hellinger-criteria-for-uniqueness-and-dynamic-uniqueness-in-infinite-memory-shift-systems">Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems</a></li>
   </ul></li>
-  <li><a href="#earlier-work" id="toc-earlier-work" class="nav-link" data-scroll-target="#earlier-work">Earlier work</a>
+  <li><a href="#research-experience" id="toc-research-experience" class="nav-link" data-scroll-target="#research-experience">Research experience</a>
   <ul class="collapse">
-  <li><a href="#spatial-models-and-computation" id="toc-spatial-models-and-computation" class="nav-link" data-scroll-target="#spatial-models-and-computation">Spatial models and computation</a></li>
-  <li><a href="#selective-inference" id="toc-selective-inference" class="nav-link" data-scroll-target="#selective-inference">Selective inference</a></li>
-  <li><a href="#multivariate-methods" id="toc-multivariate-methods" class="nav-link" data-scroll-target="#multivariate-methods">Multivariate methods</a></li>
+  <li><a href="#methodology-for-post-selection-inference-in-regression-models" id="toc-methodology-for-post-selection-inference-in-regression-models" class="nav-link" data-scroll-target="#methodology-for-post-selection-inference-in-regression-models">Methodology for Post-Selection Inference in Regression Models</a></li>
+  <li><a href="#multivariate-methods-and-dimensionality-reduction" id="toc-multivariate-methods-and-dimensionality-reduction" class="nav-link" data-scroll-target="#multivariate-methods-and-dimensionality-reduction">Multivariate methods and dimensionality reduction</a></li>
+  </ul></li>
+  <li><a href="#research-software" id="toc-research-software" class="nav-link" data-scroll-target="#research-software">Research software</a>
+  <ul class="collapse">
+  <li><a href="#spdecensspatial" id="toc-spdecensspatial" class="nav-link" data-scroll-target="#spdecensspatial">SPDECensSpatial</a></li>
+  <li><a href="#ia2rms-r-implementation" id="toc-ia2rms-r-implementation" class="nav-link" data-scroll-target="#ia2rms-r-implementation">IA2RMS R Implementation</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -197,7 +201,7 @@ window.Quarto = {
 
 <div>
   <div class="description">
-    I study how stochastic processes depend on their past, when their probability laws are unique, and how memory connects with dynamics.
+    Probability theory: compatibility and uniqueness of probability laws, Hellinger criteria, infinite-memory systems, and measurable dynamics.
   </div>
 </div>
 
@@ -220,37 +224,46 @@ window.Quarto = {
 </header>
 
 
-<section id="randomness-memory-and-dynamics" class="level2">
-<h2 class="anchored" data-anchor-id="randomness-memory-and-dynamics">Randomness, memory, and dynamics</h2>
-<p>A stochastic process may depend on much more than its most recent state. In a process with infinite memory, the entire past can help determine what happens next. I’m interested in how to describe these processes mathematically and in what remains of that memory as time passes.</p>
-<p>My current work centers on two related questions. First, when does a prescribed transition rule determine a unique probability law? Second, can processes started from different histories eventually lose the influence of those histories? The first concerns compatibility and uniqueness; the second leads to dynamic uniqueness.</p>
-<p>I study these questions for chains with complete connections and <span class="math inline">\(g\)</span>-measures on standard Borel spaces. Hellinger distances provide a way to compare probability laws, while absolute continuity and ergodic ideas help connect local transition rules with behavior on the entire future. Thinking of the shift as a measurable dynamical system is another useful perspective on the same problem.</p>
-<section id="research-interests" class="level3">
-<h3 class="anchored" data-anchor-id="research-interests">Research interests</h3>
-<ul>
-<li>Probability theory and stochastic processes, particularly processes with infinite memory.</li>
-<li>Ergodic theory and measurable dynamical systems.</li>
-<li>Stochastic differential equations and stochastic partial differential equations.</li>
-</ul>
-<p>The first two areas are central to my current work. My interest in stochastic differential equations extends beyond that project and connects with earlier work in spatial statistics.</p>
-<p>I’ll present a poster on this research at the <a href="posts/workshop-fortaleza/index.html">3rd Workshop on Combinatorics, Number Theory and Dynamical Systems</a> in October 2026.</p>
+<p>My main research interests lie in <strong>probability theory</strong>, particularly the compatibility and uniqueness of probability laws, stochastic processes with infinite memory, and ergodic phenomena in measurable dynamical systems. Further interests include stochastic differential equations, stochastic partial differential equations, and interactions between probability and statistics.</p>
+<section id="current-research" class="level2">
+<h2 class="anchored" data-anchor-id="current-research">Current research</h2>
+<section id="hellinger-criteria-for-uniqueness-and-dynamic-uniqueness-in-infinite-memory-shift-systems" class="level3">
+<h3 class="anchored" data-anchor-id="hellinger-criteria-for-uniqueness-and-dynamic-uniqueness-in-infinite-memory-shift-systems">Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems</h3>
+<p><strong>Master’s research in probability theory</strong><br>
+University of Campinas (UNICAMP), Brazil · 2026</p>
+<p>The project studies compatibility, uniqueness, and dynamic uniqueness for probability laws associated with chains with complete connections, <span class="math inline">\(g\)</span>-measures, and related shift systems on standard Borel state spaces. The central problem is to relate properties of a prescribed transition kernel to the structure of the compatible probability laws.</p>
+<p>The approach uses local absolute continuity, Radon–Nikodym martingales, conditional probability kernels, disintegration, and the joint convexity of squared Hellinger distance. Hellinger-type variation bounds control discrepancies between conditional laws, while ergodic arguments connect future absolute continuity with rigidity of stationary compatible measures. The work is situated within probability and measure theory, with connections to ergodic theory and measurable dynamics.</p>
+<p><strong>Poster:</strong> <a href="posts/workshop-fortaleza/index.html">3rd Workshop on Combinatorics, Number Theory and Dynamical Systems</a>, Fortaleza, Brazil, 19–23 October 2026.</p>
 </section>
 </section>
-<section id="earlier-work" class="level2">
-<h2 class="anchored" data-anchor-id="earlier-work">Earlier work</h2>
-<p>My background in statistics has also led me to problems where mathematical models and computation meet.</p>
-<section id="spatial-models-and-computation" class="level3">
-<h3 class="anchored" data-anchor-id="spatial-models-and-computation">Spatial models and computation</h3>
-<p>At ESPOL, I developed <strong>SPDECensSpatial</strong>, an R implementation for spatial models with censored or missing responses. The work uses the SPDE representation of Matérn Gaussian random fields and sparse Gaussian Markov random fields to make inference and prediction computationally manageable. I implemented maximum-likelihood inference using the SAEM algorithm, along with uncertainty estimates and spatial prediction.</p>
-<p>I also implemented the <strong>Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS)</strong> algorithm in R, including its use within Gibbs sampling schemes.</p>
+<section id="research-experience" class="level2">
+<h2 class="anchored" data-anchor-id="research-experience">Research experience</h2>
+<section id="methodology-for-post-selection-inference-in-regression-models" class="level3">
+<h3 class="anchored" data-anchor-id="methodology-for-post-selection-inference-in-regression-models">Methodology for Post-Selection Inference in Regression Models</h3>
+<p><strong>Research Assistant</strong><br>
+Facultad de Ciencias Naturales y Matemáticas (FCNM), Escuela Superior Politécnica del Litoral (ESPOL), Ecuador<br>
+September 2023–August 2024</p>
+<p>Conditional inference for penalized robust regression under a multivariate Gaussian model, conditioning jointly on variable-selection and outlier-detection events. Work included truncated Gaussian inference for linear functionals, numerical approximation of truncation sets, and selective <span class="math inline">\(p\)</span>-values, with simulation studies for Huber–Lasso and exponential-loss regression.</p>
 </section>
-<section id="selective-inference" class="level3">
-<h3 class="anchored" data-anchor-id="selective-inference">Selective inference</h3>
-<p>I worked on inference after variable selection and outlier detection in robust regression. Conditioning on those decisions leads to truncated Gaussian distributions; my work included numerical procedures for finding the relevant truncation sets and computing selective <span class="math inline">\(p\)</span>-values.</p>
+<section id="multivariate-methods-and-dimensionality-reduction" class="level3">
+<h3 class="anchored" data-anchor-id="multivariate-methods-and-dimensionality-reduction">Multivariate methods and dimensionality reduction</h3>
+<p><strong>Research Assistant</strong><br>
+Center for Statistical Studies and Research, ESPOL, Ecuador<br>
+February–April and August–December 2024</p>
+<p>Low-dimensional representations of multivariate data using t-SNE and projection-based methods, including a graphical construction for simultaneous representation of variables and taxonomic units. Application to agricultural practices among small-scale farmers in the northern Ecuadorian Amazon.</p>
 </section>
-<section id="multivariate-methods" class="level3">
-<h3 class="anchored" data-anchor-id="multivariate-methods">Multivariate methods</h3>
-<p>Another project explored agricultural practices among small-scale farmers in the northern Ecuadorian Amazon. I worked with dimensionality-reduction and projection methods, particularly t-SNE, to represent and examine multivariate data.</p>
+</section>
+<section id="research-software" class="level2">
+<h2 class="anchored" data-anchor-id="research-software">Research software</h2>
+<section id="spdecensspatial" class="level3">
+<h3 class="anchored" data-anchor-id="spdecensspatial">SPDECensSpatial</h3>
+<p><strong>R package · ESPOL, Ecuador · August 2024–January 2025</strong></p>
+<p>Computational methods for spatial linear models with censored or missing responses, based on the SPDE representation of Matérn Gaussian random fields and sparse Gaussian Markov random fields. Implementation includes maximum-likelihood inference through the SAEM algorithm, standard-error approximation using the Louis information identity, and spatial prediction.</p>
+</section>
+<section id="ia2rms-r-implementation" class="level3">
+<h3 class="anchored" data-anchor-id="ia2rms-r-implementation">IA2RMS R Implementation</h3>
+<p><strong>Research software · ESPOL, Ecuador · October 2023–January 2024</strong></p>
+<p>Implementation of the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) algorithm of Martino, Read, and Luengo in R, including its use within Gibbs sampling schemes for conditional distributions in multivariate models.</p>
 
 
 </section>

@@ -1,15 +1,21 @@
 ---
-title: "A poster in Fortaleza"
-description: "I'll share my work on infinite-memory processes at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems."
+title: "Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems"
+subtitle: "3rd Workshop on Combinatorics, Number Theory and Dynamical Systems"
+description: "Accepted poster · Labomar, UFC · Fortaleza, Brazil · 19–23 October 2026."
 date: 2026-10-19
 categories: [Event, Poster, Upcoming]
 author: "Pablo Zúñiga"
 ---
 
-I'll be taking part in the **3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**, in Fortaleza, Brazil, from **19 to 23 October 2026**.
+**Presentation:** poster; accepted for presentation.  
+**Event:** 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems.  
+**Institution / venue:** Labomar — Instituto de Ciências do Mar, Universidade Federal do Ceará (UFC).  
+**Location:** Fortaleza, Brazil.  
+**Dates:** 19–23 October 2026.  
+**Support:** financial support awarded by the workshop organizers.
 
-My accepted poster, **Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems**, presents my current research on how dependence on the past affects the uniqueness of probability laws and the long-term behavior of stochastic processes.
+## Research topic
 
-The workshop takes place at **Labomar — Instituto de Ciências do Mar, Universidade Federal do Ceará (UFC)**. The organizers have awarded me financial support to attend.
+Probabilistic criteria for uniqueness and dynamic uniqueness of laws associated with infinite-memory shift systems. The work concerns chains with complete connections on standard Borel spaces and uses Hellinger-type bounds, absolute continuity, conditional probability kernels, disintegration, and ergodic arguments.
 
-[More about the research](../../research.html)
+[Current research](../../research.html#current-research)

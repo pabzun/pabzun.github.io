@@ -1,10 +1,13 @@
 ---
 title: "Teaching"
-description: "I help teach Statistics for Experimentalists at UNICAMP, through lectures, problem-solving sessions, and office hours."
+description: "Teaching Assistant for ME414 — Statistics for Experimentalists, IMECC, UNICAMP, through the Programa de Estágio Docente (PED), 2026."
 ---
 
-## Statistics for Experimentalists
+## ME414 — Statistics for Experimentalists
 
-In 2026, I'm a teaching assistant for **ME414 — Statistics for Experimentalists** at IMECC, UNICAMP, through the university's **Teaching Internship Program (PED)**. My teaching periods are March–June and August–December.
+**Teaching Assistant — Programa de Estágio Docente (PED)**  
+Instituto de Matemática, Estatística e Computação Científica (IMECC), University of Campinas (UNICAMP), Brazil  
+March–June and August–December 2026
 
-I help students work through probability distributions, estimation, hypothesis testing, regression, and analysis of variance. Alongside regular office hours, I've delivered selected lectures and guided problem-solving sessions on statistical inference.
+- Regular office hours covering probability distributions, estimation, hypothesis testing, regression, and analysis of variance.
+- Selected lectures and guided problem-solving sessions on statistical inference and related course topics.

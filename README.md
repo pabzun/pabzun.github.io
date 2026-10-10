@@ -4,11 +4,11 @@ Source for https://pabzun.github.io, built with Quarto and the Cosmo theme.
 
 ## Update content
 
-- `index.qmd`: personal introduction, research overview, academic background, and highlighted events.
+- `index.qmd`: personal introduction, probability-theory overview, education, and highlighted academic activities.
 - `files/images/pablo-zuniga.jpeg`: homepage portrait.
-- `research.qmd`: current questions, research interests, earlier projects, and scientific communication.
+- `research.qmd`: current probability-theory project, research experience, and software.
 - `teaching.qmd`: teaching.
-- `posts/`: event details, listed in `posts.qmd`.
+- `posts/`: official event and presentation details, listed in `posts.qmd`.
 - `contact.qmd`: contact links.
 - `_quarto.yml`: navigation, metadata, and explicit render targets.
 
@@ -21,3 +21,5 @@ The previous publications and manuscripts page is preserved in `_archive/publica
 The original CV and supporting private documents are not included in the public repository.
 
 Adapted from [Gang He's Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template). See `LICENSE` for the template license.
+
+Editorial convention: keep About me personal and narrative; use precise academic descriptions, official titles, institutions, dates, and locations elsewhere. Probability theory is the central research area.

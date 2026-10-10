@@ -1,6 +1,6 @@
 ---
-title: "Events & activities"
-description: "A few places where I share my work and take part in the mathematical and statistical community."
+title: "Academic activities"
+description: "Poster presentations, conference organization, and academic recognition in Fortaleza, Brazil, and at ESPOL, Ecuador."
 toc: false
 listing:
   id: upcoming-events
@@ -9,19 +9,28 @@ listing:
     - posts/cuartiles-mayores/index.qmd
   sort: "date asc"
   type: default
-  fields: [date, title, description]
+  fields: [date, title, subtitle, description]
   date-format: "D MMM YYYY"
 ---
 
-Here are a few upcoming events and earlier activities connected with my research and studies.
-
-## Coming up
+## Upcoming activities
 
 ::: {#upcoming-events}
 :::
 
-## Earlier activities
+## Previous presentations
 
-In **April 2024**, I presented work on multivariate methods for understanding agricultural practices in cacao cultivation in the northern Ecuadorian Amazon, at ESPOL's Showcase of Statistical Business Practice Projects in Guayaquil.
+### Integration of Multivariate Techniques Applied to Characterize Agricultural Practices in Cacao Cultivation in the Northern Ecuadorian Amazon
 
-In **October 2023**, I helped organize the **20th Statistics Conference** at ESPOL.
+**Showcase of Statistical Business Practice Projects**  
+Escuela Superior Politécnica del Litoral (ESPOL) — Guayaquil, Ecuador  
+April 2024 · Presentation
+
+Application of multivariate and dimensionality-reduction methods to the characterization of agricultural practices.
+
+## Conference organization
+
+### 20th Statistics Conference
+
+Escuela Superior Politécnica del Litoral (ESPOL) — Guayaquil, Ecuador  
+October 2023 · Organizing committee member

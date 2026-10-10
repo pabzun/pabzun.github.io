@@ -32,23 +32,33 @@ I also care about communicating science: explaining why a question is worth aski
 
 ## Research
 
-My current work looks at stochastic processes that depend on their entire past. I ask when a transition rule determines a unique probability law, and whether the influence of an initial history eventually disappears. These questions bring together probability, ergodic ideas, and measurable dynamical systems.
+My main research interests lie in **probability theory**, particularly the compatibility and uniqueness of probability laws, stochastic systems with infinite memory, and ergodic phenomena in measurable dynamical systems. Further interests include stochastic differential equations and interactions between probability and statistics.
 
-[More about my research →](research.html)
+Current research uses absolute continuity, Hellinger-type quantities, conditional probability kernels, disintegration, and ergodic arguments to study probability laws associated with chains with complete connections and related shift systems.
 
-## Academic background
+[Research & experience →](research.html)
 
-- **Master's in Statistics — in progress.** University of Campinas (UNICAMP), Brazil.
-- **BSc in Statistics — 2025.** Escuela Superior Politécnica del Litoral (ESPOL), Ecuador.
+## Education
 
-I've also worked on spatial statistics, selective inference, and research software, and I currently help teach statistics at UNICAMP. [Teaching](teaching.html).
+- **Master's in Statistics — in progress.** University of Campinas (UNICAMP), Campinas, Brazil.
+- **BSc in Statistics — 2025.** Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador.
 
-## What's ahead
+## Academic activities
 
-- **19–23 October 2026 · Fortaleza, Brazil.** I'll present a poster at the **3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**. [About the poster](posts/workshop-fortaleza/index.html).
-- **16 November 2026 · ESPOL, Ecuador.** I've been selected for the **seventh edition of Cuartiles Mayores**. The recognition ceremony is scheduled for this date. [Details](posts/cuartiles-mayores/index.html).
+### Poster presentation
 
-[More events & activities →](posts.html)
+[**Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems**](posts/workshop-fortaleza/index.html)  
+**3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**  
+Labomar, Universidade Federal do Ceará (UFC) — Fortaleza, Brazil  
+19–23 October 2026 · Accepted poster; upcoming presentation.
+
+### Academic recognition
+
+[**Cuartiles Mayores — seventh edition**](posts/cuartiles-mayores/index.html)  
+Escuela Superior Politécnica del Litoral (ESPOL), Ecuador  
+Selected as a student honoree; ceremony scheduled for 16 November 2026.
+
+[All academic activities →](posts.html) · [Teaching](teaching.html)
 
 ## Get in touch
 
