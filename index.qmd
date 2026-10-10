@@ -1,43 +1,34 @@
 ---
-title: "Pablo Adrián Zúñiga Guamán"
-subtitle: "MSc student in Statistics · University of Campinas (UNICAMP)"
-description: "Academic profile of Pablo Zúñiga: probability theory, stochastic processes, ergodic theory, and dynamical systems."
+title: "Pablo Zúñiga"
+subtitle: "From Ecuador · Based in Campinas, Brazil"
+description: "A little about Pablo Zúñiga: probability, mathematics, football, and music."
 toc: false
 page-navigation: false
 ---
 
 ::: {.profile-intro}
-I am a Master's student in Statistics at the [University of Campinas (UNICAMP)](https://www.unicamp.br/), Brazil, working in probability theory under the supervision of **Christophe Gallesco**. I hold a BSc in Statistics from **Escuela Superior Politécnica del Litoral (ESPOL)**, Ecuador.
+Hi, I'm Pablo. I'm from Ecuador and currently live in Campinas, Brazil, where I'm pursuing a Master's in Statistics at the [University of Campinas (UNICAMP)](https://www.unicamp.br/).
 
-My research interests include probability theory, stochastic processes, ergodic theory, dynamical systems, processes with infinite memory, and stochastic partial differential equations. My current work concerns the compatibility and uniqueness of probability laws in infinite-memory shift systems.
+My main interests are **probability theory and stochastic processes**, especially their connections with **ergodic theory and dynamical systems**. I'm particularly interested in processes with infinite memory, and I also work on questions involving stochastic partial differential equations.
 
-[Email](mailto:p218730@dac.unicamp.br){.btn .btn-outline-primary} [GitHub](https://github.com/pabzun){.btn .btn-outline-primary}
+Outside mathematics, I enjoy **football and music**.
+
+[Get in touch](mailto:p218730@dac.unicamp.br){.btn .btn-outline-primary} [GitHub](https://github.com/pabzun){.btn .btn-outline-primary}
 :::
 
-## Current research
+## What I'm working on
 
-**Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems**
+My current research asks how the distant past influences a stochastic process, and under what conditions different pasts lead to the same long-term behavior. I study these questions through compatible probability laws in infinite-memory shift systems, using Hellinger-type criteria.
 
-I study compatible measures for chains with complete connections and $g$-measures on standard Borel spaces. The project develops Hellinger-type criteria connecting dependence on the remote past with future absolute continuity, ergodic rigidity, and asymptotic loss of memory.
+[More about my research →](research.html)
 
-[Read more about my research →](research.html)
+## A little background
 
-## News & upcoming events
+I studied Statistics at **Escuela Superior Politécnica del Litoral (ESPOL)** in Guayaquil, Ecuador, graduating in 2025, before continuing my studies at UNICAMP. My work has included spatial statistics, selective inference, and research software. I also work as a teaching assistant at UNICAMP.
 
-- **19–23 October 2026 — Fortaleza, Brazil.** My poster *Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems* has been accepted at the **3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**. [Details](posts/workshop-fortaleza/index.html).
-- **16 November 2026 — ESPOL, Ecuador.** Selected as a student honoree for the **seventh edition of Cuartiles Mayores**; the recognition ceremony is scheduled for this date. [Details](posts/cuartiles-mayores/index.html).
+[Research & previous projects](research.html) · [Teaching](teaching.html) · [Manuscripts & thesis](publications.html)
 
-## Education
+## What's coming up
 
-- **MSc in Statistics — in progress**, University of Campinas (UNICAMP), Campinas, Brazil. Advisor: Christophe Gallesco.
-- **BSc in Statistics — 2025**, Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador.
-
-## Research & teaching experience
-
-- **Teaching Assistant, PED — March–June and August–December 2026.** ME414, Statistics for Experimentalists, IMECC, UNICAMP.
-- **Research Assistant — February–April and August–December 2024.** Center for Statistical Studies and Research, ESPOL. Multivariate methods, dimensionality reduction, and agricultural applications.
-- **Research Assistant — September 2023–August 2024.** Project on methodology for post-selection inference in regression models, FCNM, ESPOL.
-
-## Recognition
-
-**Cuartiles Mayores, seventh edition — ESPOL, 2026.** Selected among the student honorees in recognition of effort, dedication, excellence, and contributions to the institution. Ceremony scheduled for 16 November 2026.
+- **19–23 October 2026 — Fortaleza, Brazil.** I'll be presenting a poster on my research at the **3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**. [More details](posts/workshop-fortaleza/index.html).
+- **16 November 2026 — ESPOL, Ecuador.** I've been selected as a student honoree for the **seventh edition of Cuartiles Mayores**. The recognition ceremony is scheduled for this date. [More details](posts/cuartiles-mayores/index.html).

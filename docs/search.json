@@ -44,44 +44,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Pablo Adrián Zúñiga Guamán",
+    "title": "Pablo Zúñiga",
     "section": "",
-    "text": "I am a Master’s student in Statistics at the University of Campinas (UNICAMP), Brazil, working in probability theory under the supervision of Christophe Gallesco. I hold a BSc in Statistics from Escuela Superior Politécnica del Litoral (ESPOL), Ecuador.\nMy research interests include probability theory, stochastic processes, ergodic theory, dynamical systems, processes with infinite memory, and stochastic partial differential equations. My current work concerns the compatibility and uniqueness of probability laws in infinite-memory shift systems.\nEmail (p218730 at dac dot unicamp dot br) GitHub"
+    "text": "Hi, I’m Pablo. I’m from Ecuador and currently live in Campinas, Brazil, where I’m pursuing a Master’s in Statistics at the University of Campinas (UNICAMP).\nMy main interests are probability theory and stochastic processes, especially their connections with ergodic theory and dynamical systems. I’m particularly interested in processes with infinite memory, and I also work on questions involving stochastic partial differential equations.\nOutside mathematics, I enjoy football and music.\nGet in touch (p218730 at dac dot unicamp dot br) GitHub"
   },
   {
-    "objectID": "index.html#current-research",
-    "href": "index.html#current-research",
-    "title": "Pablo Adrián Zúñiga Guamán",
-    "section": "Current research",
-    "text": "Current research\nHellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems\nI study compatible measures for chains with complete connections and \\(g\\)-measures on standard Borel spaces. The project develops Hellinger-type criteria connecting dependence on the remote past with future absolute continuity, ergodic rigidity, and asymptotic loss of memory.\nRead more about my research →"
+    "objectID": "index.html#what-im-working-on",
+    "href": "index.html#what-im-working-on",
+    "title": "Pablo Zúñiga",
+    "section": "What I’m working on",
+    "text": "What I’m working on\nMy current research asks how the distant past influences a stochastic process, and under what conditions different pasts lead to the same long-term behavior. I study these questions through compatible probability laws in infinite-memory shift systems, using Hellinger-type criteria.\nMore about my research →"
   },
   {
-    "objectID": "index.html#news-upcoming-events",
-    "href": "index.html#news-upcoming-events",
-    "title": "Pablo Adrián Zúñiga Guamán",
-    "section": "News & upcoming events",
-    "text": "News & upcoming events\n\n19–23 October 2026 — Fortaleza, Brazil. My poster Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems has been accepted at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems. Details.\n16 November 2026 — ESPOL, Ecuador. Selected as a student honoree for the seventh edition of Cuartiles Mayores; the recognition ceremony is scheduled for this date. Details."
+    "objectID": "index.html#a-little-background",
+    "href": "index.html#a-little-background",
+    "title": "Pablo Zúñiga",
+    "section": "A little background",
+    "text": "A little background\nI studied Statistics at Escuela Superior Politécnica del Litoral (ESPOL) in Guayaquil, Ecuador, graduating in 2025, before continuing my studies at UNICAMP. My work has included spatial statistics, selective inference, and research software. I also work as a teaching assistant at UNICAMP.\nResearch & previous projects · Teaching · Manuscripts & thesis"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Pablo Adrián Zúñiga Guamán",
-    "section": "Education",
-    "text": "Education\n\nMSc in Statistics — in progress, University of Campinas (UNICAMP), Campinas, Brazil. Advisor: Christophe Gallesco.\nBSc in Statistics — 2025, Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador."
-  },
-  {
-    "objectID": "index.html#research-teaching-experience",
-    "href": "index.html#research-teaching-experience",
-    "title": "Pablo Adrián Zúñiga Guamán",
-    "section": "Research & teaching experience",
-    "text": "Research & teaching experience\n\nTeaching Assistant, PED — March–June and August–December 2026. ME414, Statistics for Experimentalists, IMECC, UNICAMP.\nResearch Assistant — February–April and August–December 2024. Center for Statistical Studies and Research, ESPOL. Multivariate methods, dimensionality reduction, and agricultural applications.\nResearch Assistant — September 2023–August 2024. Project on methodology for post-selection inference in regression models, FCNM, ESPOL."
-  },
-  {
-    "objectID": "index.html#recognition",
-    "href": "index.html#recognition",
-    "title": "Pablo Adrián Zúñiga Guamán",
-    "section": "Recognition",
-    "text": "Recognition\nCuartiles Mayores, seventh edition — ESPOL, 2026. Selected among the student honorees in recognition of effort, dedication, excellence, and contributions to the institution. Ceremony scheduled for 16 November 2026."
+    "objectID": "index.html#whats-coming-up",
+    "href": "index.html#whats-coming-up",
+    "title": "Pablo Zúñiga",
+    "section": "What’s coming up",
+    "text": "What’s coming up\n\n19–23 October 2026 — Fortaleza, Brazil. I’ll be presenting a poster on my research at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems. More details.\n16 November 2026 — ESPOL, Ecuador. I’ve been selected as a student honoree for the seventh edition of Cuartiles Mayores. The recognition ceremony is scheduled for this date. More details."
   },
   {
     "objectID": "research.html",

@@ -1,10 +1,10 @@
-# Pablo Zúñiga — academic website
+# Pablo Zúñiga — personal website
 
 Source for https://pabzun.github.io, built with Quarto and the Cosmo theme.
 
 ## Update content
 
-- `index.qmd`: biography, education, experience, recognition, and highlighted events.
+- `index.qmd`: personal introduction, interests, background, and upcoming events.
 - `research.qmd`: research projects and software.
 - `publications.qmd`: manuscripts and thesis; preserve their actual publication status.
 - `teaching.qmd`: teaching experience.
