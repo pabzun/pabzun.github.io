@@ -1,0 +1,17 @@
+---
+draft: true
+title: "Publications & manuscripts"
+description: "Manuscripts in preparation and thesis by Pablo Zúñiga."
+---
+
+## Manuscripts in preparation
+
+**Zúñiga, P. A., Valeriano, K. A. L., and Lima, L. (2026).** *Likelihood-Based Inference for Spatial Data with Censored and Missing Responses via SPDE Approach.* Manuscript in preparation.
+
+## Thesis
+
+**Zúñiga, P. (2025).** *Inferencia de datos espaciales con respuestas censuradas o faltantes usando ecuaciones diferenciales parciales estocásticas (SPDE).* BSc thesis in Statistics, FCNM, Escuela Superior Politécnica del Litoral (ESPOL).
+
+## Current research
+
+*Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems.* Master's research at UNICAMP, supervised by Christophe Gallesco. [Project description](research.qmd#probability-infinite-memory-systems).

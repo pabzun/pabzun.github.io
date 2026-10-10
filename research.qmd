@@ -1,0 +1,40 @@
+---
+title: "Research"
+description: "I study how stochastic processes depend on their past, when their probability laws are unique, and how memory connects with dynamics."
+---
+
+## Randomness, memory, and dynamics
+
+A stochastic process may depend on much more than its most recent state. In a process with infinite memory, the entire past can help determine what happens next. I'm interested in how to describe these processes mathematically and in what remains of that memory as time passes.
+
+My current work centers on two related questions. First, when does a prescribed transition rule determine a unique probability law? Second, can processes started from different histories eventually lose the influence of those histories? The first concerns compatibility and uniqueness; the second leads to dynamic uniqueness.
+
+I study these questions for chains with complete connections and $g$-measures on standard Borel spaces. Hellinger distances provide a way to compare probability laws, while absolute continuity and ergodic ideas help connect local transition rules with behavior on the entire future. Thinking of the shift as a measurable dynamical system is another useful perspective on the same problem.
+
+### Research interests
+
+- Probability theory and stochastic processes, particularly processes with infinite memory.
+- Ergodic theory and measurable dynamical systems.
+- Stochastic differential equations and stochastic partial differential equations.
+
+The first two areas are central to my current work. My interest in stochastic differential equations extends beyond that project and connects with earlier work in spatial statistics.
+
+I'll present a poster on this research at the [3rd Workshop on Combinatorics, Number Theory and Dynamical Systems](posts/workshop-fortaleza/index.html) in October 2026.
+
+## Earlier work
+
+My background in statistics has also led me to problems where mathematical models and computation meet.
+
+### Spatial models and computation
+
+At ESPOL, I developed **SPDECensSpatial**, an R implementation for spatial models with censored or missing responses. The work uses the SPDE representation of Matérn Gaussian random fields and sparse Gaussian Markov random fields to make inference and prediction computationally manageable. I implemented maximum-likelihood inference using the SAEM algorithm, along with uncertainty estimates and spatial prediction.
+
+I also implemented the **Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS)** algorithm in R, including its use within Gibbs sampling schemes.
+
+### Selective inference
+
+I worked on inference after variable selection and outlier detection in robust regression. Conditioning on those decisions leads to truncated Gaussian distributions; my work included numerical procedures for finding the relevant truncation sets and computing selective $p$-values.
+
+### Multivariate methods
+
+Another project explored agricultural practices among small-scale farmers in the northern Ecuadorian Amazon. I worked with dimensionality-reduction and projection methods, particularly t-SNE, to represent and examine multivariate data.

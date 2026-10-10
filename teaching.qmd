@@ -1,67 +1,10 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
-title-block-banner: false
+description: "I help teach Statistics for Experimentalists at UNICAMP, through lectures, problem-solving sessions, and office hours."
 ---
 
+## Statistics for Experimentalists
 
-## Class 1
+In 2026, I'm a teaching assistant for **ME414 — Statistics for Experimentalists** at IMECC, UNICAMP, through the university's **Teaching Internship Program (PED)**. My teaching periods are March–June and August–December.
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 1 introduction.
-
-:::
-
-:::
-
-
-## Class 2
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-
-:::
-
-:::
-
-
-## Class 3
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
-
-:::
-
-:::
-
-
+I help students work through probability distributions, estimation, hypothesis testing, regression, and analysis of variance. Alongside regular office hours, I've delivered selected lectures and guided problem-solving sessions on statistical inference.

@@ -1,100 +1,41 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
-page-navigation: false
+title: "Pablo Zúñiga"
+subtitle: "From Ecuador, now in Campinas"
+description: "I'm Pablo, an Ecuadorian drawn to probability and mathematics. Here I share what I'm working on and what I care about."
 toc: false
-#sidebar: false
-page-layout: full
-
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 70%
-  links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
-
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+page-navigation: false
 ---
 
-:::{#hero-heading}
+## About me
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+::: {.profile-intro}
+I'm Pablo, from Ecuador, and I now live in Campinas, Brazil. I came to mathematics through statistics, and my studies have gradually drawn me toward probability theory and more abstract mathematical questions. I'm currently pursuing a Master's in Statistics at the [University of Campinas (UNICAMP)](https://www.unicamp.br/).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+What I enjoy most about research is following a question far enough to understand the ideas behind it. These days, that often means thinking about randomness, memory, and the structures that govern a stochastic process.
 
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
-
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
-
-## Experience
-
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
-
-## Education
-
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
-
+I also care about communicating science: explaining why a question is worth asking, what research helps us understand, and how fundamental research can contribute to technology and society. I enjoy football and music, too.
 :::
 
+## Research
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+My current work looks at stochastic processes that depend on their entire past. I ask when a transition rule determines a unique probability law, and whether the influence of an initial history eventually disappears. These questions bring together probability, ergodic ideas, and measurable dynamical systems.
 
-:::{#recent-posts}
-:::
+[More about my research →](research.html)
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+## Academic background
+
+- **Master's in Statistics — in progress.** University of Campinas (UNICAMP), Brazil.
+- **BSc in Statistics — 2025.** Escuela Superior Politécnica del Litoral (ESPOL), Ecuador.
+
+I've also worked on spatial statistics, selective inference, and research software, and I currently help teach statistics at UNICAMP. [Teaching](teaching.html).
+
+## What's ahead
+
+- **19–23 October 2026 · Fortaleza, Brazil.** I'll present a poster at the **3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**. [About the poster](posts/workshop-fortaleza/index.html).
+- **16 November 2026 · ESPOL, Ecuador.** I've been selected for the **seventh edition of Cuartiles Mayores**. The recognition ceremony is scheduled for this date. [Details](posts/cuartiles-mayores/index.html).
+
+[More events & activities →](posts.html)
+
+## Get in touch
+
+You can reach me by [email](mailto:p218730@dac.unicamp.br), or find me on [GitHub](https://github.com/pabzun) and [LinkedIn](https://www.linkedin.com/in/pablo-zúñiga-b57426215).

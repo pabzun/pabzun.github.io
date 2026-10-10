@@ -1,0 +1,15 @@
+---
+title: "A poster in Fortaleza"
+description: "I'll share my work on infinite-memory processes at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems."
+date: 2026-10-19
+categories: [Event, Poster, Upcoming]
+author: "Pablo Zúñiga"
+---
+
+I'll be taking part in the **3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**, in Fortaleza, Brazil, from **19 to 23 October 2026**.
+
+My accepted poster, **Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems**, presents my current research on how dependence on the past affects the uniqueness of probability laws and the long-term behavior of stochastic processes.
+
+The workshop takes place at **Labomar — Instituto de Ciências do Mar, Universidade Federal do Ceará (UFC)**. The organizers have awarded me financial support to attend.
+
+[More about the research](../../research.html)
