@@ -46,7 +46,7 @@
     "href": "research.html#current-research",
     "title": "Research",
     "section": "Current research",
-    "text": "Current research\n\nHellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems\nMaster’s research in probability theory\nUniversity of Campinas (UNICAMP), Brazil · 2026\nThe project studies compatibility, uniqueness, and dynamic uniqueness for probability laws associated with chains with complete connections, \\(g\\)-measures, and related shift systems on standard Borel state spaces. The central problem is to relate properties of a prescribed transition kernel to the structure of the compatible probability laws.\nThe approach uses local absolute continuity, Radon–Nikodym martingales, conditional probability kernels, disintegration, and the joint convexity of squared Hellinger distance. Hellinger-type variation bounds control discrepancies between conditional laws, while ergodic arguments connect future absolute continuity with rigidity of stationary compatible measures. The work is situated within probability and measure theory, with connections to ergodic theory and measurable dynamics.\nPoster: 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, Brazil, 19–23 October 2026."
+    "text": "Current research\n\nHellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems\nMaster’s research in probability theory\nUniversity of Campinas (UNICAMP), Brazil · 2026\nThe project studies compatibility and uniqueness of probability laws for systems with infinite memory, including chains with complete connections and related shift systems. It lies within probability theory, with connections to ergodic theory and dynamical systems.\nPoster: 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, Brazil, 19–23 October 2026.\n\n\nSPDE for Spatial Data with Censored and Missing Responses\nResearch in spatial statistics\nEscuela Superior Politécnica del Litoral (ESPOL), Ecuador\nLikelihood-based inference and spatial prediction for data with censored or missing responses, using stochastic partial differential equations (SPDEs) to model spatial dependence."
   },
   {
     "objectID": "research.html#research-experience",
@@ -60,7 +60,7 @@
     "href": "research.html#research-software",
     "title": "Research",
     "section": "Research software",
-    "text": "Research software\n\nSPDECensSpatial\nR package · ESPOL, Ecuador · August 2024–January 2025\nComputational methods for spatial linear models with censored or missing responses, based on the SPDE representation of Matérn Gaussian random fields and sparse Gaussian Markov random fields. Implementation includes maximum-likelihood inference through the SAEM algorithm, standard-error approximation using the Louis information identity, and spatial prediction.\n\n\nIA2RMS R Implementation\nResearch software · ESPOL, Ecuador · October 2023–January 2024\nImplementation of the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) algorithm of Martino, Read, and Luengo in R, including its use within Gibbs sampling schemes for conditional distributions in multivariate models."
+    "text": "Research software\n\nSPDECensSpatial\nR package · ESPOL, Ecuador · August 2024–January 2025\nR implementation of SPDE-based spatial models for inference and prediction with censored or missing responses.\n\n\nIA2RMS R Implementation\nResearch software · ESPOL, Ecuador · October 2023–January 2024\nImplementation of the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) algorithm of Martino, Read, and Luengo in R, including its use within Gibbs sampling schemes for conditional distributions in multivariate models."
   },
   {
     "objectID": "index.html",
@@ -81,7 +81,7 @@
     "href": "index.html#research",
     "title": "Pablo Zúñiga",
     "section": "Research",
-    "text": "Research\nMy main research interests lie in probability theory, particularly the compatibility and uniqueness of probability laws, stochastic systems with infinite memory, and ergodic phenomena in measurable dynamical systems. Further interests include stochastic differential equations and interactions between probability and statistics.\nCurrent research uses absolute continuity, Hellinger-type quantities, conditional probability kernels, disintegration, and ergodic arguments to study probability laws associated with chains with complete connections and related shift systems.\nResearch & experience →"
+    "text": "Research\nMy main research interests lie in probability theory, particularly the compatibility and uniqueness of probability laws, stochastic systems with infinite memory, and ergodic phenomena in measurable dynamical systems. Further interests include stochastic differential equations and interactions between probability and statistics.\nCurrent work concerns probability laws for systems with infinite memory. I also work on spatial inference using stochastic partial differential equations (SPDEs) for data with censored or missing responses.\nResearch & experience →"
   },
   {
     "objectID": "index.html#education",
@@ -137,6 +137,6 @@
     "href": "posts/workshop-fortaleza/index.html#research-topic",
     "title": "Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems",
     "section": "Research topic",
-    "text": "Research topic\nProbabilistic criteria for uniqueness and dynamic uniqueness of laws associated with infinite-memory shift systems. The work concerns chains with complete connections on standard Borel spaces and uses Hellinger-type bounds, absolute continuity, conditional probability kernels, disintegration, and ergodic arguments.\nCurrent research"
+    "text": "Research topic\nCompatibility and uniqueness of probability laws in systems with infinite memory, including chains with complete connections and related shift systems.\nCurrent research"
   }
 ]

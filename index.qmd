@@ -34,7 +34,7 @@ I also care about communicating science: explaining why a question is worth aski
 
 My main research interests lie in **probability theory**, particularly the compatibility and uniqueness of probability laws, stochastic systems with infinite memory, and ergodic phenomena in measurable dynamical systems. Further interests include stochastic differential equations and interactions between probability and statistics.
 
-Current research uses absolute continuity, Hellinger-type quantities, conditional probability kernels, disintegration, and ergodic arguments to study probability laws associated with chains with complete connections and related shift systems.
+Current work concerns probability laws for systems with infinite memory. I also work on spatial inference using stochastic partial differential equations (SPDEs) for data with censored or missing responses.
 
 [Research & experience →](research.html)
 

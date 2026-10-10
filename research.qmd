@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Probability theory: compatibility and uniqueness of probability laws, Hellinger criteria, infinite-memory systems, and measurable dynamics."
+description: "Research in probability theory and spatial statistics, including infinite-memory systems and SPDE models for censored and missing responses."
 ---
 
 My main research interests lie in **probability theory**, particularly the compatibility and uniqueness of probability laws, stochastic processes with infinite memory, and ergodic phenomena in measurable dynamical systems. Further interests include stochastic differential equations, stochastic partial differential equations, and interactions between probability and statistics.
@@ -12,11 +12,16 @@ My main research interests lie in **probability theory**, particularly the compa
 **Master's research in probability theory**  
 University of Campinas (UNICAMP), Brazil · 2026
 
-The project studies compatibility, uniqueness, and dynamic uniqueness for probability laws associated with chains with complete connections, $g$-measures, and related shift systems on standard Borel state spaces. The central problem is to relate properties of a prescribed transition kernel to the structure of the compatible probability laws.
-
-The approach uses local absolute continuity, Radon–Nikodym martingales, conditional probability kernels, disintegration, and the joint convexity of squared Hellinger distance. Hellinger-type variation bounds control discrepancies between conditional laws, while ergodic arguments connect future absolute continuity with rigidity of stationary compatible measures. The work is situated within probability and measure theory, with connections to ergodic theory and measurable dynamics.
+The project studies compatibility and uniqueness of probability laws for systems with infinite memory, including chains with complete connections and related shift systems. It lies within probability theory, with connections to ergodic theory and dynamical systems.
 
 **Poster:** [3rd Workshop on Combinatorics, Number Theory and Dynamical Systems](posts/workshop-fortaleza/index.html), Fortaleza, Brazil, 19–23 October 2026.
+
+### SPDE for Spatial Data with Censored and Missing Responses
+
+**Research in spatial statistics**  
+Escuela Superior Politécnica del Litoral (ESPOL), Ecuador
+
+Likelihood-based inference and spatial prediction for data with censored or missing responses, using stochastic partial differential equations (SPDEs) to model spatial dependence.
 
 ## Research experience
 
@@ -42,7 +47,7 @@ Low-dimensional representations of multivariate data using t-SNE and projection-
 
 **R package · ESPOL, Ecuador · August 2024–January 2025**
 
-Computational methods for spatial linear models with censored or missing responses, based on the SPDE representation of Matérn Gaussian random fields and sparse Gaussian Markov random fields. Implementation includes maximum-likelihood inference through the SAEM algorithm, standard-error approximation using the Louis information identity, and spatial prediction.
+R implementation of SPDE-based spatial models for inference and prediction with censored or missing responses.
 
 ### IA2RMS R Implementation
 

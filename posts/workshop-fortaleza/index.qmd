@@ -16,6 +16,6 @@ author: "Pablo Zúñiga"
 
 ## Research topic
 
-Probabilistic criteria for uniqueness and dynamic uniqueness of laws associated with infinite-memory shift systems. The work concerns chains with complete connections on standard Borel spaces and uses Hellinger-type bounds, absolute continuity, conditional probability kernels, disintegration, and ergodic arguments.
+Compatibility and uniqueness of probability laws in systems with infinite memory, including chains with complete connections and related shift systems.
 
 [Current research](../../research.html#current-research)
