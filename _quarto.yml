@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/images/pablo-zuniga.jpeg
   render:
     - index.qmd
     - research.qmd

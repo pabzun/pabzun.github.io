@@ -6,6 +6,10 @@ toc: false
 page-navigation: false
 ---
 
+::: {.profile-hero}
+
+::: {.profile-copy}
+
 ## About me
 
 ::: {.profile-intro}
@@ -14,6 +18,16 @@ I'm Pablo, from Ecuador, and I now live in Campinas, Brazil. I came to mathemati
 What I enjoy most about research is following a question far enough to understand the ideas behind it. These days, that often means thinking about randomness, memory, and the structures that govern a stochastic process.
 
 I also care about communicating science: explaining why a question is worth asking, what research helps us understand, and how fundamental research can contribute to technology and society. I enjoy football and music, too.
+:::
+
+:::
+
+::: {.profile-photo}
+
+<img src="files/images/pablo-zuniga.jpeg" alt="Portrait of Pablo Zúñiga" class="profile-portrait" width="260" height="325" loading="eager" decoding="async">
+
+:::
+
 :::
 
 ## Research

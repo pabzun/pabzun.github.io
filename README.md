@@ -5,6 +5,7 @@ Source for https://pabzun.github.io, built with Quarto and the Cosmo theme.
 ## Update content
 
 - `index.qmd`: personal introduction, research overview, academic background, and highlighted events.
+- `files/images/pablo-zuniga.jpeg`: homepage portrait.
 - `research.qmd`: current questions, research interests, earlier projects, and scientific communication.
 - `teaching.qmd`: teaching.
 - `posts/`: event details, listed in `posts.qmd`.
