@@ -4,7 +4,6 @@ project:
   render:
     - index.qmd
     - research.qmd
-    - publications.qmd
     - teaching.qmd
     - posts.qmd
     - contact.qmd
@@ -16,23 +15,21 @@ lang: en
 author: "Pablo Adrián Zúñiga Guamán"
 website:
   title: "Pablo Zúñiga"
-  description: "Pablo Zúñiga — from Ecuador, based in Campinas. Probability, mathematics, football, and music."
+  description: "I'm Pablo, from Ecuador and now in Campinas. I study probability and mathematics, and care about research and communicating science."
   site-url: "https://pabzun.github.io"
   repo-url: "https://github.com/pabzun/pabzun.github.io"
   navbar:
     background: white
     left:
-      - text: About
+      - text: About me
         href: index.qmd
       - text: Research
         href: research.qmd
-      - text: Publications & manuscripts
-        href: publications.qmd
       - text: Teaching
         href: teaching.qmd
-      - text: News & events
+      - text: Events
         href: posts.qmd
-      - text: Contact
+      - text: Get in touch
         href: contact.qmd
     right:
       - icon: github

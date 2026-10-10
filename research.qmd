@@ -1,53 +1,40 @@
 ---
 title: "Research"
-description: "Research in probability theory, infinite-memory processes, selective inference, and spatial models."
+description: "I study how stochastic processes depend on their past, when their probability laws are unique, and how memory connects with dynamics."
 ---
 
-## Probability & infinite-memory systems
+## Randomness, memory, and dynamics
 
-### Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems
+A stochastic process may depend on much more than its most recent state. In a process with infinite memory, the entire past can help determine what happens next. I'm interested in how to describe these processes mathematically and in what remains of that memory as time passes.
 
-**Master's research, UNICAMP · 2026**  
-**Advisor:** Christophe Gallesco
+My current work centers on two related questions. First, when does a prescribed transition rule determine a unique probability law? Second, can processes started from different histories eventually lose the influence of those histories? The first concerns compatibility and uniqueness; the second leads to dynamic uniqueness.
 
-The project studies probability measures compatible with chains with complete connections and $g$-measures on standard Borel spaces. It focuses on uniqueness and dynamic uniqueness, using Hellinger-type criteria to connect the decay of dependence on the remote past with absolute continuity on the future, ergodic rigidity, and asymptotic loss of memory.
+I study these questions for chains with complete connections and $g$-measures on standard Borel spaces. Hellinger distances provide a way to compare probability laws, while absolute continuity and ergodic ideas help connect local transition rules with behavior on the entire future. Thinking of the shift as a measurable dynamical system is another useful perspective on the same problem.
 
-This work will be presented as a poster at the [3rd Workshop on Combinatorics, Number Theory and Dynamical Systems](posts/workshop-fortaleza/index.html), Fortaleza, 19–23 October 2026.
+### Research interests
 
-## Spatial statistics & research software
+- Probability theory and stochastic processes, particularly processes with infinite memory.
+- Ergodic theory and measurable dynamical systems.
+- Stochastic differential equations and stochastic partial differential equations.
 
-### SPDECensSpatial
+The first two areas are central to my current work. My interest in stochastic differential equations extends beyond that project and connects with earlier work in spatial statistics.
 
-**Research software, ESPOL · August 2024–January 2025**
+I'll present a poster on this research at the [3rd Workshop on Combinatorics, Number Theory and Dynamical Systems](posts/workshop-fortaleza/index.html) in October 2026.
 
-Development of computational methods for censored spatial linear models using the stochastic partial differential equation (SPDE) representation of Matérn Gaussian random fields. The work uses sparse Gaussian Markov random field representations and maximum-likelihood inference through the Stochastic Approximation Expectation–Maximization (SAEM) algorithm.
+## Earlier work
 
-The implementation covers censored and missing responses, standard-error approximation using the Louis information identity, and prediction at unobserved locations.
+My background in statistics has also led me to problems where mathematical models and computation meet.
 
-### IA2RMS implementation in R
+### Spatial models and computation
 
-**Research software, ESPOL · October 2023–January 2024**
+At ESPOL, I developed **SPDECensSpatial**, an R implementation for spatial models with censored or missing responses. The work uses the SPDE representation of Matérn Gaussian random fields and sparse Gaussian Markov random fields to make inference and prediction computationally manageable. I implemented maximum-likelihood inference using the SAEM algorithm, along with uncertainty estimates and spatial prediction.
 
-Implementation of the Independent Doubly Adaptive Rejection Metropolis Sampling algorithm of Martino, Read, and Luengo in R, including adaptive rejection and Metropolis sampling for general target distributions and use within Gibbs sampling schemes.
+I also implemented the **Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS)** algorithm in R, including its use within Gibbs sampling schemes.
 
-## Previous research
+### Selective inference
 
-### Selective inference in regression models
+I worked on inference after variable selection and outlier detection in robust regression. Conditioning on those decisions leads to truncated Gaussian distributions; my work included numerical procedures for finding the relevant truncation sets and computing selective $p$-values.
 
-**Research Assistant, FCNM, ESPOL · September 2023–August 2024**
+### Multivariate methods
 
-Studied conditional inference for penalized robust regression under a multivariate Gaussian model, conditioning jointly on variable-selection and outlier-detection events. Developed selective inference for linear functionals through truncated Gaussian distributions and numerical procedures in R for truncation sets and selective $p$-values, with simulation studies for Huber–Lasso and exponential-loss regression.
-
-### Multivariate methods & agricultural practices
-
-**Research Assistant, Center for Statistical Studies and Research, ESPOL · February–April and August–December 2024**
-
-Studied low-dimensional representations of multivariate data, particularly t-SNE and projection-based methods. Developed a graphical construction for simultaneous representation of variables and taxonomic units, applied to agricultural practices among small-scale farmers in the northern Ecuadorian Amazon.
-
-## Interests & tools
-
-**Research interests:** probability theory, stochastic processes, ergodic theory, dynamical systems, infinite-memory processes, and stochastic PDEs.
-
-**Programming:** R, Python, C++, SQL.  
-**Scientific writing:** LaTeX, mathematical exposition, technical documentation.  
-**Languages:** Spanish (native), English (intermediate), Portuguese (intermediate).
+Another project explored agricultural practices among small-scale farmers in the northern Ecuadorian Amazon. I worked with dimensionality-reduction and projection methods, particularly t-SNE, to represent and examine multivariate data.

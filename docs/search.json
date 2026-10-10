@@ -2,134 +2,120 @@
   {
     "objectID": "posts/cuartiles-mayores/index.html",
     "href": "posts/cuartiles-mayores/index.html",
-    "title": "Selected for Cuartiles Mayores — seventh edition",
+    "title": "Cuartiles Mayores at ESPOL",
     "section": "",
-    "text": "I have been selected among the student honorees for the seventh edition of Cuartiles Mayores at Escuela Superior Politécnica del Litoral (ESPOL).\nThe recognition highlights students’ effort, dedication, excellence, and contributions to the institution. The ceremony is scheduled for 16 November 2026 at 10:00, at the STEM building, Campus Gustavo Galindo Velasco, Ecuador."
+    "text": "I’ve been selected among the student honorees for the seventh edition of Cuartiles Mayores at Escuela Superior Politécnica del Litoral (ESPOL).\nThe ceremony is scheduled for 16 November 2026 at 10:00, at the STEM building, Campus Gustavo Galindo Velasco, Ecuador."
   },
   {
-    "objectID": "posts.html#previous-activities",
-    "href": "posts.html#previous-activities",
-    "title": "News & events",
-    "section": "Previous activities",
-    "text": "Previous activities\n\nApril 2024 — ESPOL, Guayaquil, Ecuador. Presented Integration of Multivariate Techniques Applied to Characterize Agricultural Practices in Cacao Cultivation in the Northern Ecuadorian Amazon at the Showcase of Statistical Business Practice Projects.\nOctober 2023 — ESPOL, Guayaquil, Ecuador. Organizing committee member for the 20th Statistics Conference."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications & manuscripts",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Events & activities",
     "section": "",
-    "text": "Zúñiga, P. A., Valeriano, K. A. L., and Lima, L. (2026). Likelihood-Based Inference for Spatial Data with Censored and Missing Responses via SPDE Approach. Manuscript in preparation."
+    "text": "Here are a few upcoming events and earlier activities connected with my research and studies."
   },
   {
-    "objectID": "publications.html#manuscripts-in-preparation",
-    "href": "publications.html#manuscripts-in-preparation",
-    "title": "Publications & manuscripts",
-    "section": "",
-    "text": "Zúñiga, P. A., Valeriano, K. A. L., and Lima, L. (2026). Likelihood-Based Inference for Spatial Data with Censored and Missing Responses via SPDE Approach. Manuscript in preparation."
+    "objectID": "posts.html#coming-up",
+    "href": "posts.html#coming-up",
+    "title": "Events & activities",
+    "section": "Coming up",
+    "text": "Coming up\n\n\n\n\n\nA poster in Fortaleza\n\n\nI’ll share my work on infinite-memory processes at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems.\n\n\n\n\n\n19 Oct 2026\n\n\n\n\n\n\n\nCuartiles Mayores at ESPOL\n\n\nI’ve been selected among the student honorees for the seventh edition; the ceremony is scheduled for 16 November 2026.\n\n\n\n\n\n16 Nov 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications.html#thesis",
-    "href": "publications.html#thesis",
-    "title": "Publications & manuscripts",
-    "section": "Thesis",
-    "text": "Thesis\nZúñiga, P. (2025). Inferencia de datos espaciales con respuestas censuradas o faltantes usando ecuaciones diferenciales parciales estocásticas (SPDE). BSc thesis in Statistics, FCNM, Escuela Superior Politécnica del Litoral (ESPOL)."
-  },
-  {
-    "objectID": "publications.html#current-research",
-    "href": "publications.html#current-research",
-    "title": "Publications & manuscripts",
-    "section": "Current research",
-    "text": "Current research\nHellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems. Master’s research at UNICAMP, supervised by Christophe Gallesco. Project description."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pablo Zúñiga",
-    "section": "",
-    "text": "Hi, I’m Pablo. I’m from Ecuador and currently live in Campinas, Brazil, where I’m pursuing a Master’s in Statistics at the University of Campinas (UNICAMP).\nMy main interests are probability theory and stochastic processes, especially their connections with ergodic theory and dynamical systems. I’m particularly interested in processes with infinite memory, and I also work on questions involving stochastic partial differential equations.\nOutside mathematics, I enjoy football and music.\nGet in touch (p218730 at dac dot unicamp dot br) GitHub"
-  },
-  {
-    "objectID": "index.html#what-im-working-on",
-    "href": "index.html#what-im-working-on",
-    "title": "Pablo Zúñiga",
-    "section": "What I’m working on",
-    "text": "What I’m working on\nMy current research asks how the distant past influences a stochastic process, and under what conditions different pasts lead to the same long-term behavior. I study these questions through compatible probability laws in infinite-memory shift systems, using Hellinger-type criteria.\nMore about my research →"
-  },
-  {
-    "objectID": "index.html#a-little-background",
-    "href": "index.html#a-little-background",
-    "title": "Pablo Zúñiga",
-    "section": "A little background",
-    "text": "A little background\nI studied Statistics at Escuela Superior Politécnica del Litoral (ESPOL) in Guayaquil, Ecuador, graduating in 2025, before continuing my studies at UNICAMP. My work has included spatial statistics, selective inference, and research software. I also work as a teaching assistant at UNICAMP.\nResearch & previous projects · Teaching · Manuscripts & thesis"
-  },
-  {
-    "objectID": "index.html#whats-coming-up",
-    "href": "index.html#whats-coming-up",
-    "title": "Pablo Zúñiga",
-    "section": "What’s coming up",
-    "text": "What’s coming up\n\n19–23 October 2026 — Fortaleza, Brazil. I’ll be presenting a poster on my research at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems. More details.\n16 November 2026 — ESPOL, Ecuador. I’ve been selected as a student honoree for the seventh edition of Cuartiles Mayores. The recognition ceremony is scheduled for this date. More details."
+    "objectID": "posts.html#earlier-activities",
+    "href": "posts.html#earlier-activities",
+    "title": "Events & activities",
+    "section": "Earlier activities",
+    "text": "Earlier activities\nIn April 2024, I presented work on multivariate methods for understanding agricultural practices in cacao cultivation in the northern Ecuadorian Amazon, at ESPOL’s Showcase of Statistical Business Practice Projects in Guayaquil.\nIn October 2023, I helped organize the 20th Statistics Conference at ESPOL."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Master’s research, UNICAMP · 2026\nAdvisor: Christophe Gallesco\nThe project studies probability measures compatible with chains with complete connections and \\(g\\)-measures on standard Borel spaces. It focuses on uniqueness and dynamic uniqueness, using Hellinger-type criteria to connect the decay of dependence on the remote past with absolute continuity on the future, ergodic rigidity, and asymptotic loss of memory.\nThis work will be presented as a poster at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026."
+    "text": "A stochastic process may depend on much more than its most recent state. In a process with infinite memory, the entire past can help determine what happens next. I’m interested in how to describe these processes mathematically and in what remains of that memory as time passes.\nMy current work centers on two related questions. First, when does a prescribed transition rule determine a unique probability law? Second, can processes started from different histories eventually lose the influence of those histories? The first concerns compatibility and uniqueness; the second leads to dynamic uniqueness.\nI study these questions for chains with complete connections and \\(g\\)-measures on standard Borel spaces. Hellinger distances provide a way to compare probability laws, while absolute continuity and ergodic ideas help connect local transition rules with behavior on the entire future. Thinking of the shift as a measurable dynamical system is another useful perspective on the same problem.\n\n\n\nProbability theory and stochastic processes, particularly processes with infinite memory.\nErgodic theory and measurable dynamical systems.\nStochastic differential equations and stochastic partial differential equations.\n\nThe first two areas are central to my current work. My interest in stochastic differential equations extends beyond that project and connects with earlier work in spatial statistics.\nI’ll present a poster on this research at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems in October 2026."
   },
   {
-    "objectID": "research.html#probability-infinite-memory-systems",
-    "href": "research.html#probability-infinite-memory-systems",
+    "objectID": "research.html#randomness-memory-and-dynamics",
+    "href": "research.html#randomness-memory-and-dynamics",
     "title": "Research",
     "section": "",
-    "text": "Master’s research, UNICAMP · 2026\nAdvisor: Christophe Gallesco\nThe project studies probability measures compatible with chains with complete connections and \\(g\\)-measures on standard Borel spaces. It focuses on uniqueness and dynamic uniqueness, using Hellinger-type criteria to connect the decay of dependence on the remote past with absolute continuity on the future, ergodic rigidity, and asymptotic loss of memory.\nThis work will be presented as a poster at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026."
+    "text": "A stochastic process may depend on much more than its most recent state. In a process with infinite memory, the entire past can help determine what happens next. I’m interested in how to describe these processes mathematically and in what remains of that memory as time passes.\nMy current work centers on two related questions. First, when does a prescribed transition rule determine a unique probability law? Second, can processes started from different histories eventually lose the influence of those histories? The first concerns compatibility and uniqueness; the second leads to dynamic uniqueness.\nI study these questions for chains with complete connections and \\(g\\)-measures on standard Borel spaces. Hellinger distances provide a way to compare probability laws, while absolute continuity and ergodic ideas help connect local transition rules with behavior on the entire future. Thinking of the shift as a measurable dynamical system is another useful perspective on the same problem.\n\n\n\nProbability theory and stochastic processes, particularly processes with infinite memory.\nErgodic theory and measurable dynamical systems.\nStochastic differential equations and stochastic partial differential equations.\n\nThe first two areas are central to my current work. My interest in stochastic differential equations extends beyond that project and connects with earlier work in spatial statistics.\nI’ll present a poster on this research at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems in October 2026."
   },
   {
-    "objectID": "research.html#spatial-statistics-research-software",
-    "href": "research.html#spatial-statistics-research-software",
+    "objectID": "research.html#earlier-work",
+    "href": "research.html#earlier-work",
     "title": "Research",
-    "section": "Spatial statistics & research software",
-    "text": "Spatial statistics & research software\n\nSPDECensSpatial\nResearch software, ESPOL · August 2024–January 2025\nDevelopment of computational methods for censored spatial linear models using the stochastic partial differential equation (SPDE) representation of Matérn Gaussian random fields. The work uses sparse Gaussian Markov random field representations and maximum-likelihood inference through the Stochastic Approximation Expectation–Maximization (SAEM) algorithm.\nThe implementation covers censored and missing responses, standard-error approximation using the Louis information identity, and prediction at unobserved locations.\n\n\nIA2RMS implementation in R\nResearch software, ESPOL · October 2023–January 2024\nImplementation of the Independent Doubly Adaptive Rejection Metropolis Sampling algorithm of Martino, Read, and Luengo in R, including adaptive rejection and Metropolis sampling for general target distributions and use within Gibbs sampling schemes."
+    "section": "Earlier work",
+    "text": "Earlier work\nMy background in statistics has also led me to problems where mathematical models and computation meet.\n\nSpatial models and computation\nAt ESPOL, I developed SPDECensSpatial, an R implementation for spatial models with censored or missing responses. The work uses the SPDE representation of Matérn Gaussian random fields and sparse Gaussian Markov random fields to make inference and prediction computationally manageable. I implemented maximum-likelihood inference using the SAEM algorithm, along with uncertainty estimates and spatial prediction.\nI also implemented the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) algorithm in R, including its use within Gibbs sampling schemes.\n\n\nSelective inference\nI worked on inference after variable selection and outlier detection in robust regression. Conditioning on those decisions leads to truncated Gaussian distributions; my work included numerical procedures for finding the relevant truncation sets and computing selective \\(p\\)-values.\n\n\nMultivariate methods\nAnother project explored agricultural practices among small-scale farmers in the northern Ecuadorian Amazon. I worked with dimensionality-reduction and projection methods, particularly t-SNE, to represent and examine multivariate data."
   },
   {
-    "objectID": "research.html#previous-research",
-    "href": "research.html#previous-research",
-    "title": "Research",
-    "section": "Previous research",
-    "text": "Previous research\n\nSelective inference in regression models\nResearch Assistant, FCNM, ESPOL · September 2023–August 2024\nStudied conditional inference for penalized robust regression under a multivariate Gaussian model, conditioning jointly on variable-selection and outlier-detection events. Developed selective inference for linear functionals through truncated Gaussian distributions and numerical procedures in R for truncation sets and selective \\(p\\)-values, with simulation studies for Huber–Lasso and exponential-loss regression.\n\n\nMultivariate methods & agricultural practices\nResearch Assistant, Center for Statistical Studies and Research, ESPOL · February–April and August–December 2024\nStudied low-dimensional representations of multivariate data, particularly t-SNE and projection-based methods. Developed a graphical construction for simultaneous representation of variables and taxonomic units, applied to agricultural practices among small-scale farmers in the northern Ecuadorian Amazon."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pablo Zúñiga",
+    "section": "",
+    "text": "I’m Pablo, from Ecuador, and I now live in Campinas, Brazil. I came to mathematics through statistics, and my studies have gradually drawn me toward probability theory and more abstract mathematical questions. I’m currently pursuing a Master’s in Statistics at the University of Campinas (UNICAMP).\nWhat I enjoy most about research is following a question far enough to understand the ideas behind it. These days, that often means thinking about randomness, memory, and the structures that govern a stochastic process.\nI also care about communicating science: explaining why a question is worth asking, what research helps us understand, and how fundamental research can contribute to technology and society. I enjoy football and music, too."
   },
   {
-    "objectID": "research.html#interests-tools",
-    "href": "research.html#interests-tools",
-    "title": "Research",
-    "section": "Interests & tools",
-    "text": "Interests & tools\nResearch interests: probability theory, stochastic processes, ergodic theory, dynamical systems, infinite-memory processes, and stochastic PDEs.\nProgramming: R, Python, C++, SQL.\nScientific writing: LaTeX, mathematical exposition, technical documentation.\nLanguages: Spanish (native), English (intermediate), Portuguese (intermediate)."
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Pablo Zúñiga",
+    "section": "",
+    "text": "I’m Pablo, from Ecuador, and I now live in Campinas, Brazil. I came to mathematics through statistics, and my studies have gradually drawn me toward probability theory and more abstract mathematical questions. I’m currently pursuing a Master’s in Statistics at the University of Campinas (UNICAMP).\nWhat I enjoy most about research is following a question far enough to understand the ideas behind it. These days, that often means thinking about randomness, memory, and the structures that govern a stochastic process.\nI also care about communicating science: explaining why a question is worth asking, what research helps us understand, and how fundamental research can contribute to technology and society. I enjoy football and music, too."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Pablo Zúñiga",
+    "section": "Research",
+    "text": "Research\nMy current work looks at stochastic processes that depend on their entire past. I ask when a transition rule determines a unique probability law, and whether the influence of an initial history eventually disappears. These questions bring together probability, ergodic ideas, and measurable dynamical systems.\nMore about my research →"
+  },
+  {
+    "objectID": "index.html#academic-background",
+    "href": "index.html#academic-background",
+    "title": "Pablo Zúñiga",
+    "section": "Academic background",
+    "text": "Academic background\n\nMaster’s in Statistics — in progress. University of Campinas (UNICAMP), Brazil.\nBSc in Statistics — 2025. Escuela Superior Politécnica del Litoral (ESPOL), Ecuador.\n\nI’ve also worked on spatial statistics, selective inference, and research software, and I currently help teach statistics at UNICAMP. Teaching."
+  },
+  {
+    "objectID": "index.html#whats-ahead",
+    "href": "index.html#whats-ahead",
+    "title": "Pablo Zúñiga",
+    "section": "What’s ahead",
+    "text": "What’s ahead\n\n19–23 October 2026 · Fortaleza, Brazil. I’ll present a poster at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems. About the poster.\n16 November 2026 · ESPOL, Ecuador. I’ve been selected for the seventh edition of Cuartiles Mayores. The recognition ceremony is scheduled for this date. Details.\n\nMore events & activities →"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Pablo Zúñiga",
+    "section": "Get in touch",
+    "text": "Get in touch\nYou can reach me by email (p218730 at dac dot unicamp dot br), or find me on GitHub and LinkedIn."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Teaching Assistant, Programa de Estágio Docente (PED)\nIMECC, University of Campinas (UNICAMP)\nMarch–June and August–December 2026\n\nHeld regular office hours, helping students with probability distributions, estimation, hypothesis testing, regression, and analysis of variance.\nDelivered selected lectures and guided problem-solving sessions on statistical inference and related topics."
+    "text": "In 2026, I’m a teaching assistant for ME414 — Statistics for Experimentalists at IMECC, UNICAMP, through the university’s Teaching Internship Program (PED). My teaching periods are March–June and August–December.\nI help students work through probability distributions, estimation, hypothesis testing, regression, and analysis of variance. Alongside regular office hours, I’ve delivered selected lectures and guided problem-solving sessions on statistical inference."
   },
   {
-    "objectID": "teaching.html#me414-statistics-for-experimentalists",
-    "href": "teaching.html#me414-statistics-for-experimentalists",
+    "objectID": "teaching.html#statistics-for-experimentalists",
+    "href": "teaching.html#statistics-for-experimentalists",
     "title": "Teaching",
     "section": "",
-    "text": "Teaching Assistant, Programa de Estágio Docente (PED)\nIMECC, University of Campinas (UNICAMP)\nMarch–June and August–December 2026\n\nHeld regular office hours, helping students with probability distributions, estimation, hypothesis testing, regression, and analysis of variance.\nDelivered selected lectures and guided problem-solving sessions on statistical inference and related topics."
+    "text": "In 2026, I’m a teaching assistant for ME414 — Statistics for Experimentalists at IMECC, UNICAMP, through the university’s Teaching Internship Program (PED). My teaching periods are March–June and August–December.\nI help students work through probability distributions, estimation, hypothesis testing, regression, and analysis of variance. Alongside regular office hours, I’ve delivered selected lectures and guided problem-solving sessions on statistical inference."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Get in touch",
     "section": "",
-    "text": "Pablo Adrián Zúñiga Guamán\nMSc student in Statistics\nInstituto de Matemática, Estatística e Computação Científica (IMECC)\nUniversity of Campinas (UNICAMP)\nCampinas, São Paulo, Brazil\n\nEmail: p218730 at dac dot unicamp dot br\nGitHub: pabzun\nLinkedIn: Pablo Zúñiga"
+    "text": "I’m based in Campinas, São Paulo, Brazil. If you’d like to talk about research, teaching, or communicating science, you can reach me here:\n\nEmail: p218730 at dac dot unicamp dot br\nGitHub: pabzun\nLinkedIn: Pablo Zúñiga"
   },
   {
     "objectID": "posts/workshop-fortaleza/index.html",
     "href": "posts/workshop-fortaleza/index.html",
-    "title": "Poster at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems",
+    "title": "A poster in Fortaleza",
     "section": "",
-    "text": "My poster Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems has been accepted for presentation at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems.\n\nDates: 19–23 October 2026.\nVenue: Labomar — Instituto de Ciências do Mar, Universidade Federal do Ceará (UFC), Fortaleza, Brazil.\nParticipation: accepted poster presentation; attendance confirmed.\nSupport: financial support awarded by the workshop organizers.\n\nThe poster presents my Master’s research at UNICAMP, supervised by Christophe Gallesco, on Hellinger criteria for compatible laws in infinite-memory shift systems.\nResearch overview"
+    "text": "I’ll be taking part in the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, in Fortaleza, Brazil, from 19 to 23 October 2026.\nMy accepted poster, Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems, presents my current research on how dependence on the past affects the uniqueness of probability laws and the long-term behavior of stochastic processes.\nThe workshop takes place at Labomar — Instituto de Ciências do Mar, Universidade Federal do Ceará (UFC). The organizers have awarded me financial support to attend.\nMore about the research"
   }
 ]

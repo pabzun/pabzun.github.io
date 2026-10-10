@@ -1,34 +1,41 @@
 ---
 title: "Pablo Zúñiga"
-subtitle: "From Ecuador · Based in Campinas, Brazil"
-description: "A little about Pablo Zúñiga: probability, mathematics, football, and music."
+subtitle: "From Ecuador, now in Campinas"
+description: "I'm Pablo, an Ecuadorian drawn to probability and mathematics. Here I share what I'm working on and what I care about."
 toc: false
 page-navigation: false
 ---
 
+## About me
+
 ::: {.profile-intro}
-Hi, I'm Pablo. I'm from Ecuador and currently live in Campinas, Brazil, where I'm pursuing a Master's in Statistics at the [University of Campinas (UNICAMP)](https://www.unicamp.br/).
+I'm Pablo, from Ecuador, and I now live in Campinas, Brazil. I came to mathematics through statistics, and my studies have gradually drawn me toward probability theory and more abstract mathematical questions. I'm currently pursuing a Master's in Statistics at the [University of Campinas (UNICAMP)](https://www.unicamp.br/).
 
-My main interests are **probability theory and stochastic processes**, especially their connections with **ergodic theory and dynamical systems**. I'm particularly interested in processes with infinite memory, and I also work on questions involving stochastic partial differential equations.
+What I enjoy most about research is following a question far enough to understand the ideas behind it. These days, that often means thinking about randomness, memory, and the structures that govern a stochastic process.
 
-Outside mathematics, I enjoy **football and music**.
-
-[Get in touch](mailto:p218730@dac.unicamp.br){.btn .btn-outline-primary} [GitHub](https://github.com/pabzun){.btn .btn-outline-primary}
+I also care about communicating science: explaining why a question is worth asking, what research helps us understand, and how fundamental research can contribute to technology and society. I enjoy football and music, too.
 :::
 
-## What I'm working on
+## Research
 
-My current research asks how the distant past influences a stochastic process, and under what conditions different pasts lead to the same long-term behavior. I study these questions through compatible probability laws in infinite-memory shift systems, using Hellinger-type criteria.
+My current work looks at stochastic processes that depend on their entire past. I ask when a transition rule determines a unique probability law, and whether the influence of an initial history eventually disappears. These questions bring together probability, ergodic ideas, and measurable dynamical systems.
 
 [More about my research →](research.html)
 
-## A little background
+## Academic background
 
-I studied Statistics at **Escuela Superior Politécnica del Litoral (ESPOL)** in Guayaquil, Ecuador, graduating in 2025, before continuing my studies at UNICAMP. My work has included spatial statistics, selective inference, and research software. I also work as a teaching assistant at UNICAMP.
+- **Master's in Statistics — in progress.** University of Campinas (UNICAMP), Brazil.
+- **BSc in Statistics — 2025.** Escuela Superior Politécnica del Litoral (ESPOL), Ecuador.
 
-[Research & previous projects](research.html) · [Teaching](teaching.html) · [Manuscripts & thesis](publications.html)
+I've also worked on spatial statistics, selective inference, and research software, and I currently help teach statistics at UNICAMP. [Teaching](teaching.html).
 
-## What's coming up
+## What's ahead
 
-- **19–23 October 2026 — Fortaleza, Brazil.** I'll be presenting a poster on my research at the **3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**. [More details](posts/workshop-fortaleza/index.html).
-- **16 November 2026 — ESPOL, Ecuador.** I've been selected as a student honoree for the **seventh edition of Cuartiles Mayores**. The recognition ceremony is scheduled for this date. [More details](posts/cuartiles-mayores/index.html).
+- **19–23 October 2026 · Fortaleza, Brazil.** I'll present a poster at the **3rd Workshop on Combinatorics, Number Theory and Dynamical Systems**. [About the poster](posts/workshop-fortaleza/index.html).
+- **16 November 2026 · ESPOL, Ecuador.** I've been selected for the **seventh edition of Cuartiles Mayores**. The recognition ceremony is scheduled for this date. [Details](posts/cuartiles-mayores/index.html).
+
+[More events & activities →](posts.html)
+
+## Get in touch
+
+You can reach me by [email](mailto:p218730@dac.unicamp.br), or find me on [GitHub](https://github.com/pabzun) and [LinkedIn](https://www.linkedin.com/in/pablo-zúñiga-b57426215).

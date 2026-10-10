@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Pablo Adrián Zúñiga Guamán">
-<meta name="description" content="Academic news, upcoming presentations, and recognition.">
+<meta name="description" content="A few places where I share my work and take part in the mathematical and statistical community.">
 
-<title>News &amp; events – Pablo Zúñiga</title>
+<title>Events &amp; activities – Pablo Zúñiga</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -79,20 +79,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-upcoming-events .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-upcoming-events'] = new List('listing-upcoming-events', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -137,15 +137,15 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="News &amp; events – Pablo Zúñiga">
-<meta property="og:description" content="Academic news, upcoming presentations, and recognition.">
+<meta property="og:title" content="Events &amp; activities – Pablo Zúñiga">
+<meta property="og:description" content="A few places where I share my work and take part in the mathematical and statistical community.">
 <meta property="og:site_name" content="Pablo Zúñiga">
-<meta name="twitter:title" content="News &amp; events – Pablo Zúñiga">
-<meta name="twitter:description" content="Academic news, upcoming presentations, and recognition.">
+<meta name="twitter:title" content="Events &amp; activities – Pablo Zúñiga">
+<meta name="twitter:description" content="A few places where I share my work and take part in the mathematical and statistical community.">
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -164,15 +164,11 @@ window.Quarto = {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publications &amp; manuscripts</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
@@ -180,11 +176,11 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./posts.html" aria-current="page"> 
-<span class="menu-text">News &amp; events</span></a>
+<span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
-<span class="menu-text">Contact</span></a>
+<span class="menu-text">Get in touch</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -204,19 +200,18 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RXZlbnQ=">Event <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG9zdGVy">Poster <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVjb2duaXRpb24=">Recognition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VXBjb21pbmc=">Upcoming <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">News &amp; events</h1>
+<h1 class="title">Events &amp; activities</h1>
 </div>
 
 <div>
   <div class="description">
-    Academic news, upcoming presentations, and recognition.
+    A few places where I share my work and take part in the mathematical and statistical community.
   </div>
 </div>
 
@@ -239,38 +234,18 @@ window.Quarto = {
 </header>
 
 
-<section id="upcoming" class="level2">
-<h2 class="anchored" data-anchor-id="upcoming">Upcoming</h2>
-</section>
-<section id="previous-activities" class="level2">
-<h2 class="anchored" data-anchor-id="previous-activities">Previous activities</h2>
-<ul>
-<li><strong>April 2024 — ESPOL, Guayaquil, Ecuador.</strong> Presented <em>Integration of Multivariate Techniques Applied to Characterize Agricultural Practices in Cacao Cultivation in the Northern Ecuadorian Amazon</em> at the Showcase of Statistical Business Practice Projects.</li>
-<li><strong>October 2023 — ESPOL, Guayaquil, Ecuador.</strong> Organizing committee member for the 20th Statistics Conference.</li>
-</ul>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<p>Here are a few upcoming events and earlier activities connected with my research and studies.</p>
+<section id="coming-up" class="level2">
+<h2 class="anchored" data-anchor-id="coming-up">Coming up</h2>
+<div id="listing-upcoming-events" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnQlMkNQb3N0ZXIlMkNVcGNvbWluZw==" data-listing-date-sort="1792382400000" data-listing-file-modified-sort="1791643482753" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
+<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnQlMkNQb3N0ZXIlMkNVcGNvbWluZw==" data-listing-date-sort="1792382400000" data-listing-file-modified-sort="1791644658280" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="88">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./posts/workshop-fortaleza/index.html" class="no-external">Poster at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems</a>
+<a href="./posts/workshop-fortaleza/index.html" class="no-external">A poster in Fortaleza</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RXZlbnQ='); return false;">Event</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UG9zdGVy'); return false;">Poster</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VXBjb21pbmc='); return false;">Upcoming</div>
-
-</div>
 <div class="delink listing-description"><a href="./posts/workshop-fortaleza/index.html" class="no-external">
-<p>Accepted poster presentation · Fortaleza, Brazil · 19–23 October 2026.</p>
+<p>I’ll share my work on infinite-memory processes at the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -281,20 +256,13 @@ window.Quarto = {
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="UmVjb2duaXRpb24lMkNVcGNvbWluZw==" data-listing-date-sort="1794805200000" data-listing-file-modified-sort="1791643482753" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<div class="quarto-post image-right" data-index="1" data-categories="UmVjb2duaXRpb24lMkNVcGNvbWluZw==" data-listing-date-sort="1794805200000" data-listing-file-modified-sort="1791644658280" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="39">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./posts/cuartiles-mayores/index.html" class="no-external">Selected for Cuartiles Mayores — seventh edition</a>
+<a href="./posts/cuartiles-mayores/index.html" class="no-external">Cuartiles Mayores at ESPOL</a>
 </h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVjb2duaXRpb24='); return false;">Recognition</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VXBjb21pbmc='); return false;">Upcoming</div>
-
-</div>
 <div class="delink listing-description"><a href="./posts/cuartiles-mayores/index.html" class="no-external">
-<p>Student recognition at ESPOL · Ceremony scheduled for 16 November 2026.</p>
+<p>I’ve been selected among the student honorees for the seventh edition; the ceremony is scheduled for 16 November 2026.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -307,7 +275,18 @@ window.Quarto = {
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+</section>
+<section id="earlier-activities" class="level2">
+<h2 class="anchored" data-anchor-id="earlier-activities">Earlier activities</h2>
+<p>In <strong>April 2024</strong>, I presented work on multivariate methods for understanding agricultural practices in cacao cultivation in the northern Ecuadorian Amazon, at ESPOL’s Showcase of Statistical Business Practice Projects in Guayaquil.</p>
+<p>In <strong>October 2023</strong>, I helped organize the <strong>20th Statistics Conference</strong> at ESPOL.</p>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
