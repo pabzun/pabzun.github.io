@@ -17,7 +17,7 @@ author: "Pablo Zúñiga"
 **Venue:** Saint Martin Fortaleza – Auditório Platão.  
 **Location:** Fortaleza, Brazil.  
 **Dates:** 19–23 October 2026.  
-**Support:** financial support awarded by the workshop organizers.
+**Support:** financial support from the workshop organizers, IMECC (UNICAMP), and CAPES.
 :::
 
 ::: {.event-visual}
