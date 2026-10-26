@@ -49,7 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-bfc01d0da482d6cc28e064aad061f4e0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f6890e0f8f53497eeea759e8e83f61de.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -104,6 +104,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-past-presentations .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-subtitle','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-past-presentations'] = new List('listing-past-presentations', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -139,13 +167,13 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Academic activities – Pablo Zúñiga">
 <meta property="og:description" content="Poster presentations, conference organization, and academic recognition in Fortaleza, Brazil, and at ESPOL, Ecuador.">
-<meta property="og:image" content="https://pabzun.github.io/files/images/workshop-fortaleza.jpg">
+<meta property="og:image" content="https://pabzun.github.io/files/images/cuartiles-mayores.jpg">
 <meta property="og:site_name" content="Pablo Zúñiga">
-<meta property="og:image:alt" content="Official poster for the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026.">
+<meta property="og:image:alt" content="Official Cuartiles Mayores research recognition banner from ESPOL.">
 <meta name="twitter:title" content="Academic activities – Pablo Zúñiga">
 <meta name="twitter:description" content="Poster presentations, conference organization, and academic recognition in Fortaleza, Brazil, and at ESPOL, Ecuador.">
-<meta name="twitter:image" content="https://pabzun.github.io/files/images/workshop-fortaleza.jpg">
-<meta name="twitter:image:alt" content="Official poster for the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026.">
+<meta name="twitter:image" content="https://pabzun.github.io/files/images/cuartiles-mayores.jpg">
+<meta name="twitter:image:alt" content="Official Cuartiles Mayores research recognition banner from ESPOL.">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -242,32 +270,7 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="upcoming-activities">Upcoming activities</h2>
 <div id="listing-upcoming-events" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnQlMkNQb3N0ZXIlMkNVcGNvbWluZw==" data-listing-date-sort="1792382400000" data-listing-file-modified-sort="1791647830855" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
-<div class="thumbnail"><a href="./posts/workshop-fortaleza/index.html" class="no-external">
-
-<img loading="lazy" src="./files/images/workshop-fortaleza.jpg" class="thumbnail-image" alt="Official poster for the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026.">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/workshop-fortaleza/index.html" class="no-external">Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/workshop-fortaleza/index.html" class="no-external">3rd Workshop on Combinatorics, Number Theory and Dynamical Systems</a>
-</div>
-<div class="delink listing-description"><a href="./posts/workshop-fortaleza/index.html" class="no-external">
-<p>Accepted poster · Labomar, UFC · Fortaleza, Brazil · 19–23 October 2026.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/workshop-fortaleza/index.html" class="no-external">
-<div class="listing-date">
-19 Oct 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="UmVjb2duaXRpb24lMkNVcGNvbWluZw==" data-listing-date-sort="1794805200000" data-listing-file-modified-sort="1791647830855" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<div class="quarto-post image-right" data-index="0" data-categories="UmVjb2duaXRpb24lMkNVcGNvbWluZw==" data-listing-date-sort="1794798000000" data-listing-file-modified-sort="1791647830855" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
 <div class="thumbnail"><a href="./posts/cuartiles-mayores/index.html" class="no-external">
 
 <img loading="lazy" src="./files/images/cuartiles-mayores.jpg" class="thumbnail-image" alt="Official Cuartiles Mayores research recognition banner from ESPOL.">
@@ -298,6 +301,36 @@ window.Quarto = {
 </section>
 <section id="previous-presentations" class="level2">
 <h2 class="anchored" data-anchor-id="previous-presentations">Previous presentations</h2>
+<div id="listing-past-presentations" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnQlMkNQb3N0ZXI=" data-listing-date-sort="1792378800000" data-listing-file-modified-sort="1793058210328" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
+<div class="thumbnail"><a href="./posts/workshop-fortaleza/index.html" class="no-external">
+
+<img loading="lazy" src="./files/images/workshop-fortaleza.jpg" class="thumbnail-image" alt="Official poster for the 3rd Workshop on Combinatorics, Number Theory and Dynamical Systems, Fortaleza, 19–23 October 2026.">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/workshop-fortaleza/index.html" class="no-external">Hellinger Criteria for Uniqueness and Dynamic Uniqueness in Infinite-Memory Shift Systems</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/workshop-fortaleza/index.html" class="no-external">3rd Workshop on Combinatorics, Number Theory and Dynamical Systems</a>
+</div>
+<div class="delink listing-description"><a href="./posts/workshop-fortaleza/index.html" class="no-external">
+<p>Poster presentation · Saint Martin Fortaleza – Auditório Platão · Fortaleza, Brazil · 19–23 October 2026.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/workshop-fortaleza/index.html" class="no-external">
+<div class="listing-date">
+19 Oct 2026
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 <section id="integration-of-multivariate-techniques-applied-to-characterize-agricultural-practices-in-cacao-cultivation-in-the-northern-ecuadorian-amazon" class="level3">
 <h3 class="anchored" data-anchor-id="integration-of-multivariate-techniques-applied-to-characterize-agricultural-practices-in-cacao-cultivation-in-the-northern-ecuadorian-amazon">Integration of Multivariate Techniques Applied to Characterize Agricultural Practices in Cacao Cultivation in the Northern Ecuadorian Amazon</h3>
 <p><strong>Showcase of Statistical Business Practice Projects</strong><br>

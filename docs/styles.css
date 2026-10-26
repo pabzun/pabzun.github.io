@@ -45,7 +45,8 @@ h2 { margin-top: 2.2rem; }
 .event-visual figure { margin: 0; }
 .event-image { display: block; width: 100%; height: auto; border-radius: .35rem; }
 .event-image-credit { color: #596670; font-size: .8rem; line-height: 1.5; margin-top: .6rem; }
-#listing-upcoming-events .thumbnail img { object-fit: contain; object-position: center; max-height: 180px; }
+#listing-upcoming-events .thumbnail img,
+#listing-past-presentations .thumbnail img { object-fit: contain; object-position: center; max-height: 180px; }
 @media (max-width: 767px) {
   .event-intro { grid-template-columns: 1fr; gap: 1.25rem; }
   .event-visual { width: min(100%, 400px); }

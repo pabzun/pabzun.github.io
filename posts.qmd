@@ -3,14 +3,20 @@ title: "Academic activities"
 description: "Poster presentations, conference organization, and academic recognition in Fortaleza, Brazil, and at ESPOL, Ecuador."
 toc: false
 listing:
-  id: upcoming-events
-  contents:
-    - posts/workshop-fortaleza/index.qmd
-    - posts/cuartiles-mayores/index.qmd
-  sort: "date asc"
-  type: default
-  fields: [date, title, subtitle, description, image]
-  date-format: "D MMM YYYY"
+  - id: upcoming-events
+    contents:
+      - posts/cuartiles-mayores/index.qmd
+    sort: "date asc"
+    type: default
+    fields: [date, title, subtitle, description, image]
+    date-format: "D MMM YYYY"
+  - id: past-presentations
+    contents:
+      - posts/workshop-fortaleza/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [date, title, subtitle, description, image]
+    date-format: "D MMM YYYY"
 ---
 
 ## Upcoming activities
@@ -19,6 +25,9 @@ listing:
 :::
 
 ## Previous presentations
+
+::: {#past-presentations}
+:::
 
 ### Integration of Multivariate Techniques Applied to Characterize Agricultural Practices in Cacao Cultivation in the Northern Ecuadorian Amazon
 

@@ -14,7 +14,7 @@ University of Campinas (UNICAMP), Brazil · 2026
 
 The project studies compatibility and uniqueness of probability laws for systems with infinite memory, including chains with complete connections and related shift systems. It lies within probability theory, with connections to ergodic theory and dynamical systems.
 
-**Poster:** [3rd Workshop on Combinatorics, Number Theory and Dynamical Systems](posts/workshop-fortaleza/index.html), Fortaleza, Brazil, 19–23 October 2026.
+**Poster presented:** [3rd Workshop on Combinatorics, Number Theory and Dynamical Systems](posts/workshop-fortaleza/index.html), Saint Martin Fortaleza – Auditório Platão, Fortaleza, Brazil, 19–23 October 2026.
 
 ### SPDE for Spatial Data with Censored and Missing Responses
 
